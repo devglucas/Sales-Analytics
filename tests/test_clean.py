@@ -20,8 +20,7 @@ def test_layout_antigo_vira_esquema_harmonizado():
         ("03/01/2024", "2", "3", "CLI-1", "CRV-011", "-2", "100,00", "-10,00"),     # devolução
         ("04/01/2024", "3", "V03", "CLI-1", "CRV-011", "1", "0,00", "0,00"),        # bonificação
     ])
-    depara = pd.DataFrame({"sku_antigo": ["CRV-011"], "sku_novo": ["1001"]})
-    r = harmonizar_layout_antigo(df, depara, TABELA)
+    r = harmonizar_layout_antigo(df, pd.Series({"CRV-011": "1001"}))
     assert r["vendedor_id"].tolist() == ["V03"] * 3
     assert r["tipo"].tolist() == ["VENDA", "DEVOLUCAO", "BONIFICACAO"]
     assert r["quantidade"].tolist() == [4, 2, 1]

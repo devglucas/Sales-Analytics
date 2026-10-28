@@ -79,26 +79,31 @@ def inferir_depara_por_preco(antigo: pd.DataFrame, tabela: pd.DataFrame, candida
     return pd.Series(resultado, dtype="string")
 
 
-def harmonizar_layout_antigo(df: pd.DataFrame, depara: pd.DataFrame, tabela: pd.DataFrame) -> pd.DataFrame:
+def completar_depara(antigo: pd.DataFrame, depara: pd.DataFrame, tabela: pd.DataFrame) -> tuple[pd.Series, pd.Series]:
+    """Devolve (de-para completo, parte inferida pelo preço) para os SKUs antigos."""
+    mapa = depara.set_index("sku_antigo")["sku_novo"]
+    sem_depara = antigo[~antigo["sku"].isin(mapa.index)]
+    if sem_depara.empty:
+        return mapa, pd.Series(dtype="string")
+    vendas = pd.DataFrame({"sku_antigo": sem_depara["sku"], "preco_bruto": parse_numero(sem_depara["vlr_unit"]),
+                           "data": pd.to_datetime(sem_depara["data"], format="%d/%m/%Y")})
+    inferido = inferir_depara_por_preco(vendas, tabela, set(tabela["sku"]) - set(mapa.values))
+    return pd.concat([mapa, inferido]), inferido
+
+
+def harmonizar_layout_antigo(df: pd.DataFrame, mapa_sku: pd.Series) -> pd.DataFrame:
     quantidade = pd.to_numeric(df["qtd"], errors="coerce")
     preco_bruto = parse_numero(df["vlr_unit"])
     desconto_rs = parse_numero(df["vlr_desc"]).abs()
-    df = df.assign(data=pd.to_datetime(df["data"], format="%d/%m/%Y"), preco_bruto=preco_bruto, sku_antigo=df["sku"])
-
-    mapa = depara.set_index("sku_antigo")["sku_novo"]
-    sem_depara = ~df["sku_antigo"].isin(mapa.index)
-    if sem_depara.any():
-        candidatos = set(tabela["sku"]) - set(mapa.values)
-        mapa = pd.concat([mapa, inferir_depara_por_preco(df[sem_depara], tabela, candidatos)])
-
     tipo = np.select([quantidade < 0, preco_bruto == 0], ["DEVOLUCAO", "BONIFICACAO"], default="VENDA")
     bruto_linha = quantidade.abs() * preco_bruto
     return df.assign(
+        data=pd.to_datetime(df["data"], format="%d/%m/%Y"),
         nf=df["nf"],
         # 'v03', '3' e 'v-03' -> 'V03'
         vendedor_id="V" + df["cod_vendedor"].str.extract(r"(\d+)", expand=False).str.zfill(2),
         cliente_id=df["cod_cliente"],
-        sku=df["sku_antigo"].map(mapa),
+        sku=df["sku"].map(mapa_sku),
         tipo=tipo,
         quantidade=quantidade.abs(),
         preco_liquido=((bruto_linha - desconto_rs) / quantidade.abs()).round(2),
@@ -121,9 +126,11 @@ def harmonizar_layout_novo(df: pd.DataFrame) -> pd.DataFrame:
     )
 
 
-def limpar_vendas(vendas: dict, depara: pd.DataFrame, tabela: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+def limpar_vendas(vendas: dict, depara: pd.DataFrame, tabela: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.Series]:
+    """Devolve (itens harmonizados, rejeitados, de-para inferido pelo preço)."""
+    mapa_sku, inferido = completar_depara(vendas["antigo"], depara, tabela)
     itens = pd.concat([
-        harmonizar_layout_antigo(vendas["antigo"], depara, tabela)[COLUNAS_ITENS],
+        harmonizar_layout_antigo(vendas["antigo"], mapa_sku)[COLUNAS_ITENS],
         harmonizar_layout_novo(vendas["novo"])[COLUNAS_ITENS],
     ], ignore_index=True)
     itens["nf"] = itens["nf"].astype("int64")
@@ -151,7 +158,7 @@ def limpar_vendas(vendas: dict, depara: pd.DataFrame, tabela: pd.DataFrame) -> t
     rejeitados = pd.concat(rejeitados)
     log.info("itens: %d válidos | %d corrigidos (100x) | rejeitados: %s", len(itens), itens["corr_quantidade_100x"].sum(),
              rejeitados["motivo_rejeicao"].value_counts().to_dict())
-    return itens.sort_values(["data", "nf", "sku"]).reset_index(drop=True), rejeitados
+    return itens.sort_values(["data", "nf", "sku"]).reset_index(drop=True), rejeitados, inferido
 
 
 # --------------------------------------------------------------------------- #
