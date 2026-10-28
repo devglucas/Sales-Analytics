@@ -33,7 +33,8 @@ def metas_x_realizado(metas: pd.DataFrame, fato: pd.DataFrame, vendedores: pd.Da
     df = df.sort_values(["vendedor_id", "mes"])
     df["atingimento"] = df["realizado"] / df["meta"]
     df["faixa"] = pd.cut(df["atingimento"], bins=FAIXAS_COMISSAO, labels=ROTULOS_FAIXA, right=False)
-    df["comissao"] = (df["realizado"] * df["faixa"].map(dict(zip(ROTULOS_FAIXA, PERCENTUAIS_COMISSAO))).astype("float64")).round(2)
+    percentual = df["faixa"].map(dict(zip(ROTULOS_FAIXA, PERCENTUAIS_COMISSAO))).astype("float64")
+    df["comissao"] = (df["realizado"] * percentual).fillna(0.0).round(2)  # sem meta, sem comissão
     acumulado = df.groupby("vendedor_id")[["meta", "realizado"]].cumsum()
     df["atingimento_ytd"] = acumulado["realizado"] / acumulado["meta"]
     return df.merge(vendedores[["vendedor_id", "nome", "regional"]], on="vendedor_id", how="left")
