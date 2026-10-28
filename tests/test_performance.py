@@ -24,6 +24,7 @@ def test_positivacao_transfere_carteira_para_o_substituto():
     fato = _fato([
         ("V07", "C1", "2025-01-10", 1), ("V07", "C2", "2025-01-12", 1),
         ("V17", "C1", "2025-03-05", 1),                                    # C1 passa a comprar com o V17
+        ("V01", "C3", "2025-04-02", 1),                                    # estende o período até abril
     ])
     r = positivacao(fato).set_index(["vendedor_id", "mes"])
     assert r.loc[("V07", pd.Period("2025-02")), "positivacao"] == 0.0     # carteira ativa, ninguém comprou
