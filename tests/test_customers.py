@@ -36,8 +36,9 @@ def test_coorte_so_com_clientes_novos():
     retencao, curva = coortes(vendas, CLIENTES)
     retencao = retencao.set_index("coorte")
     assert retencao["clientes"].tolist() == [1, 1]
-    assert retencao.loc["2025-01", 1] == 0 if not pd.isna(retencao.loc["2025-01", 1]) else True
+    assert retencao.loc["2025-01", 1] == 0.0                           # observado e ninguém voltou
     assert retencao.loc["2025-01", 2] == 1.0 and retencao.loc["2025-02", 1] == 1.0
+    assert pd.isna(retencao.loc["2025-02", 2])                         # ainda não observável
     assert curva.loc[curva["mes_relativo"] == 0, "retencao_media"].iat[0] == 1.0
 
 

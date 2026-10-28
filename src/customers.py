@@ -72,6 +72,12 @@ def coortes(fato: pd.DataFrame, clientes: pd.DataFrame) -> tuple[pd.DataFrame, p
     atividade["mes_relativo"] = (atividade["mes"] - atividade["coorte"]).apply(lambda d: d.n)
 
     ativos = atividade.pivot_table(index="coorte", columns="mes_relativo", values="cliente_id", aggfunc="nunique")
+    # Célula vazia tem dois significados: "ninguém voltou" (0%) ou "ainda não deu tempo de
+    # observar" (NaN). Só os meses já decorridos desde a coorte viram 0.
+    ultimo_mes = fato["mes"].max()
+    decorridos = pd.Series([(ultimo_mes - c).n for c in ativos.index], index=ativos.index)
+    observavel = pd.DataFrame({m: m <= decorridos for m in ativos.columns})
+    ativos = ativos.fillna(0).where(observavel)
     tamanho = ativos[0]
     retencao = ativos.div(tamanho, axis=0).round(4)
     retencao.insert(0, "clientes", tamanho)
