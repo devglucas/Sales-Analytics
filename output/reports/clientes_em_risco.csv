@@ -1,0 +1,16 @@
+cliente_id,recencia_dias,frequencia,valor,R,F,M,segmento_rfm,segmento,regional,vendedor_id
+CLI-0095,205,30,748924.17,1,3,5,Em risco,Atacado,Litoral,V16
+CLI-0086,154,75,286057.33999999997,1,5,5,Em risco,Mercado,Interior,V12
+CLI-0395,153,46,177797.01,1,4,4,Em risco,Mercado,Grande SP,V06
+CLI-0015,44,44,155476.92,2,4,4,Em risco,Mercado,Capital,V03
+CLI-0052,34,35,131704.18,2,3,4,Em risco,Mercado,Litoral,V13
+CLI-0231,40,30,124468.05,2,3,4,Em risco,Mercado,Interior,V09
+CLI-0538,36,34,110610.28,2,3,4,Em risco,Mercado,Capital,V04
+CLI-0227,33,30,102076.17,2,3,4,Em risco,Mercado,Grande SP,V05
+CLI-0294,33,73,90954.51,2,5,4,Em risco,Bar,Litoral,V15
+CLI-0008,43,52,70928.05,2,5,3,Em risco,Bar,Grande SP,V05
+CLI-0535,154,37,55742.9,1,4,3,Em risco,Bar,Capital,V03
+CLI-0480,92,45,53000.05,1,4,3,Em risco,Bar,Interior,V09
+CLI-0465,40,43,49314.35,2,4,3,Em risco,Restaurante,Litoral,V14
+CLI-0624,34,34,49224.47,2,3,3,Em risco,Bar,Interior,V11
+CLI-0107,37,31,37997.76,2,3,2,Em risco,Bar,Grande SP,V06

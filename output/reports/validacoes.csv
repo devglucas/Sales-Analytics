@@ -1,0 +1,22 @@
+grupo,regra,severidade,ocorrencias,passou
+modelo,"toda linha tem SKU, categoria, cliente e segmento",critica,0,True
+modelo,toda linha tem preço de tabela vigente,critica,0,True
+modelo,quantidade positiva,critica,0,True
+modelo,preço praticado não acima da tabela,critica,0,True
+modelo,"desconto informado = desconto real (±0,5 p.p.)",critica,0,True
+agregações,soma por regional = receita total,critica,0,True
+agregações,soma por vendedor_id = receita total,critica,0,True
+agregações,soma por categoria = receita total,critica,0,True
+agregações,soma por segmento = receita total,critica,0,True
+agregações,realizado de metas x realizado = receita total,critica,0,True
+metas,soma das metas após melt = linha TOTAL da planilha,critica,0,True
+metas,comissão coerente com a faixa de atingimento,critica,0,True
+crescimento,PVM: soma dos efeitos = variação da receita (por categoria),critica,0,True
+crescimento,ponte de clientes fecha (início + etapas = fim),critica,0,True
+clientes,notas RFM entre 1 e 5,critica,0,True
+clientes,retenção no mês 0 = 100%,critica,0,True
+metas,vendedor-mês com venda e sem meta,alerta,1,False
+dados,quantidades corrigidas (digitadas 100x),alerta,36,False
+dados,SKUs antigos com de-para reconstruído pelo preço,alerta,2,False
+dados,linhas descartadas por reexportação duplicada,alerta,6462,False
+clientes,clientes em risco (RFM) com histórico frequente,alerta,15,False
