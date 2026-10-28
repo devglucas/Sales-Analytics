@@ -20,7 +20,9 @@ FERIADOS = pd.to_datetime([
     "2025-05-01", "2025-06-19", "2025-11-20", "2025-12-25",
 ])
 
-# Quantidade por linha acima disso é erro de digitação (caixas digitadas como unidades)
+# Quantidade digitada em unidades em vez de caixas (100x): múltiplo de 100 e muito acima
+# do que o cliente costuma comprar por linha
+FATOR_QUANTIDADE_ATIPICA = 20
 QUANTIDADE_MAXIMA_CAIXAS = 1_000
 
 # Comissão sobre a receita líquida do mês, pela faixa de atingimento da meta
