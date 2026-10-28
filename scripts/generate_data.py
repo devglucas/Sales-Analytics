@@ -154,8 +154,9 @@ def gerar_clientes(rng, vendedores: pd.DataFrame) -> pd.DataFrame:
     for i in range(1, 651):
         segmento = str(rng.choice(list(SEGMENTOS), p=[0.40, 0.25, 0.25, 0.10]))
         vendedor = ativos.iloc[rng.integers(len(ativos))]
-        cadastro = pd.Timestamp("2019-01-01") + pd.Timedelta(days=int(rng.beta(2.2, 1.0) * 2500))
-        churn = cadastro + pd.Timedelta(days=int(rng.integers(120, 900))) if rng.random() < 0.22 else pd.NaT
+        # base madura: clientes cadastrados desde 2016, metade deles para de comprar em algum momento
+        cadastro = pd.Timestamp("2016-01-01") + pd.Timedelta(days=int(rng.uniform(0, 3650)))
+        churn = cadastro + pd.Timedelta(days=int(rng.integers(180, 2500))) if rng.random() < 0.5 else pd.NaT
         linhas.append({"cliente_id": f"CLI-{i:04d}", "razao_social": f"{segmento} {i:04d} Ltda", "segmento": segmento,
                        "cidade": str(rng.choice(cidades[vendedor["regional"]])), "regional": vendedor["regional"],
                        "vendedor_id": vendedor["vendedor_id"], "data_cadastro": cadastro, "churn": churn,
@@ -186,8 +187,8 @@ def gerar_vendas(rng, clientes, vendedores, produtos, tabela) -> pd.DataFrame:
             fim_mes = mes + pd.offsets.MonthEnd(0)
             if c.data_cadastro > fim_mes or (pd.notna(c.churn) and c.churn < mes):
                 continue
-            # crescimento de 6% ao ano na frequência + sazonalidade + potencial do cliente
-            tendencia = 1 + 0.06 * (mes.year - 2024 + mes.month / 12)
+            # crescimento de 2% ao ano na frequência + sazonalidade + potencial do cliente
+            tendencia = 1 + 0.02 * (mes.year - 2024 + mes.month / 12)
             n = rng.poisson(pedidos_mes * c.potencial * tendencia * (0.6 + 0.4 * SAZONALIDADE[mes.month - 1]))
             dias = DIAS_UTEIS[(DIAS_UTEIS >= max(mes, c.data_cadastro)) & (DIAS_UTEIS <= fim_mes)]
             if n == 0 or len(dias) == 0:
@@ -275,7 +276,7 @@ def exportar_vendas(rng, vendas: pd.DataFrame) -> None:
 # --------------------------------------------------------------------------- #
 def gerar_metas(vendas: pd.DataFrame, vendedores: pd.DataFrame, produtos: pd.DataFrame) -> None:
     """
-    Metas de 2025 = realizado do mesmo mês em 2024 x 1,12, arredondado ao milhar.
+    Metas de 2025 = realizado do mesmo mês em 2024 x 1,20, arredondado ao milhar.
     O vendedor novo (V17) herda a meta da carteira do V07 a partir de julho.
     A planilha é feita por pessoas: formato largo, nomes e valores em texto.
     """
@@ -284,7 +285,7 @@ def gerar_metas(vendas: pd.DataFrame, vendedores: pd.DataFrame, produtos: pd.Dat
     base = receita[receita["data"].dt.year == 2024].assign(mes=lambda d: d["data"].dt.month)
     base["vendedor_id"] = base["vendedor_id"]
     mensal = base.groupby(["vendedor_id", "mes"])["receita"].sum().unstack(fill_value=0)
-    metas = (mensal * 1.12 / 1000).round() * 1000
+    metas = (mensal * 1.20 / 1000).round() * 1000
     metas.loc["V17"] = 0.0
     metas.loc["V17", 7:] = metas.loc["V07", 7:]
     metas.loc["V07", 7:] = np.nan  # desligado em junho
@@ -309,7 +310,7 @@ def gerar_metas(vendas: pd.DataFrame, vendedores: pd.DataFrame, produtos: pd.Dat
         vendedores[["vendedor_id", "regional"]], on="vendedor_id")
     categoria = categoria[categoria["data"].dt.year == 2024]
     trimestral = categoria.groupby(["regional", "categoria", categoria["data"].dt.quarter])["receita"].sum().unstack()
-    trimestral = (trimestral * 1.10 / 1000).round() * 1000
+    trimestral = (trimestral * 1.18 / 1000).round() * 1000
     trimestral.columns = [f"T{t}" for t in trimestral.columns]
 
     with pd.ExcelWriter(RAW_DIR / "metas_2025.xlsx", engine="openpyxl") as writer:
