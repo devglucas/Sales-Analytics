@@ -1,0 +1,30 @@
+sku,categoria,nome,embalagem,lancamento
+1001,Cerveja,Cerveja Pilsen Original,Lata 350ml cx 12,2023-01-01
+1002,Cerveja,Cerveja Pilsen Original,Garrafa 600ml cx 24,2023-01-01
+1003,Cerveja,Cerveja Pilsen Original,Long neck 355ml cx 24,2023-01-01
+1004,Cerveja,Cerveja Puro Malte,Lata 350ml cx 12,2023-01-01
+1005,Cerveja,Cerveja Puro Malte,Long neck 355ml cx 24,2023-01-01
+1006,Cerveja,Cerveja IPA Artesanal,Garrafa 500ml cx 12,2023-01-01
+1007,Cerveja,Cerveja Zero Álcool,Lata 350ml cx 12,2023-01-01
+1008,Cerveja,Chope Pilsen,Barril 30L,2023-01-01
+1009,Refrigerante,Refrigerante Cola,Pet 2L cx 6,2023-01-01
+1010,Refrigerante,Refrigerante Cola,Lata 350ml cx 12,2023-01-01
+1011,Refrigerante,Refrigerante Guaraná,Pet 2L cx 6,2023-01-01
+1012,Refrigerante,Refrigerante Guaraná,Lata 350ml cx 12,2023-01-01
+1013,Refrigerante,Refrigerante Laranja,Pet 2L cx 6,2023-01-01
+1014,Refrigerante,Refrigerante Cola Zero,Lata 350ml cx 12,2023-01-01
+1015,Água,Água Mineral sem Gás,Garrafa 500ml cx 12,2023-01-01
+1016,Água,Água Mineral com Gás,Garrafa 500ml cx 12,2023-01-01
+1017,Água,Água Mineral sem Gás,Galão 20L,2023-01-01
+1018,Energético,Energético Tradicional,Lata 250ml cx 6,2023-01-01
+1019,Energético,Energético Sem Açúcar,Lata 250ml cx 6,2023-01-01
+1020,Energético,Energético Tropical,Lata 473ml cx 6,2023-01-01
+1021,Suco,Suco de Uva Integral,Garrafa 1L cx 6,2023-01-01
+1022,Suco,Néctar de Pêssego,Caixa 1L cx 12,2023-01-01
+1023,Suco,Néctar de Manga,Caixa 1L cx 12,2023-01-01
+1024,Destilados,Vodka Premium,Garrafa 1L cx 6,2023-01-01
+1025,Destilados,Gin Seco,Garrafa 750ml cx 6,2023-01-01
+1026,Destilados,Cachaça Envelhecida,Garrafa 700ml cx 6,2023-01-01
+1027,Destilados,Whisky 8 anos,Garrafa 1L cx 6,2023-01-01
+1028,Cerveja,Cerveja Puro Malte,Lata 473ml cx 12,2025-03-01
+1029,Energético,Energético Melancia,Lata 250ml cx 6,2025-06-01

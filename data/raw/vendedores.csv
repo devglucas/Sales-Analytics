@@ -1,0 +1,18 @@
+vendedor_id,nome,regional,gerente,admissao,desligamento
+V01,João Carlos Pereira,Capital,Marina Duarte,2019-02-28,
+V02,Ana Paula Ribeiro,Capital,Marina Duarte,2022-07-16,
+V03,Marcos Vinícius Lima,Capital,Marina Duarte,2018-08-16,
+V04,Juliana Costa,Capital,Marina Duarte,2021-01-15,
+V05,Ricardo Almeida,Grande SP,Rogério Tavares,2018-08-18,
+V06,Fernanda Souza,Grande SP,Rogério Tavares,2018-05-16,
+V07,Thiago Martins,Grande SP,Rogério Tavares,2019-01-14,2025-06-30
+V08,Patrícia Gomes,Grande SP,Rogério Tavares,2018-10-25,
+V09,Eduardo Barbosa,Interior,Cláudia Menezes,2020-09-16,
+V10,Camila Rocha,Interior,Cláudia Menezes,2019-07-22,
+V11,Leonardo Dias,Interior,Cláudia Menezes,2019-03-10,
+V12,Beatriz Nunes,Interior,Cláudia Menezes,2022-09-14,
+V13,Rafael Moreira,Litoral,Fábio Nogueira,2020-01-06,
+V14,Larissa Araújo,Litoral,Fábio Nogueira,2022-05-29,
+V15,Gustavo Henrique,Litoral,Fábio Nogueira,2019-09-12,
+V16,Simone Freitas,Litoral,Fábio Nogueira,2018-11-10,
+V17,Diego Cardoso,Grande SP,Rogério Tavares,2025-07-01,

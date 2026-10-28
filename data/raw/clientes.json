@@ -1,0 +1,5852 @@
+[
+ {
+  "cliente_id": "CLI-0001",
+  "razao_social": "Restaurante 0001 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2023-04-18"
+ },
+ {
+  "cliente_id": "CLI-0002",
+  "razao_social": "Restaurante 0002 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2025-01-21"
+ },
+ {
+  "cliente_id": "CLI-0003",
+  "razao_social": "Bar 0003 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2023-05-26"
+ },
+ {
+  "cliente_id": "CLI-0004",
+  "razao_social": "Bar 0004 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2023-08-15"
+ },
+ {
+  "cliente_id": "CLI-0005",
+  "razao_social": "Mercado 0005 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2024-05-20"
+ },
+ {
+  "cliente_id": "CLI-0006",
+  "razao_social": "Mercado 0006 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2021-06-14"
+ },
+ {
+  "cliente_id": "CLI-0007",
+  "razao_social": "Bar 0007 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2022-11-28"
+ },
+ {
+  "cliente_id": "CLI-0008",
+  "razao_social": "Restaurante 0008 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2025-05-27"
+ },
+ {
+  "cliente_id": "CLI-0009",
+  "razao_social": "Mercado 0009 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2023-09-30"
+ },
+ {
+  "cliente_id": "CLI-0010",
+  "razao_social": "Restaurante 0010 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2023-06-15"
+ },
+ {
+  "cliente_id": "CLI-0011",
+  "razao_social": "Bar 0011 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-04-16"
+ },
+ {
+  "cliente_id": "CLI-0012",
+  "razao_social": "Mercado 0012 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2019-11-15"
+ },
+ {
+  "cliente_id": "CLI-0013",
+  "razao_social": "Bar 0013 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2024-06-08"
+ },
+ {
+  "cliente_id": "CLI-0014",
+  "razao_social": "Bar 0014 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-05-29"
+ },
+ {
+  "cliente_id": "CLI-0015",
+  "razao_social": "Mercado 0015 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2023-11-04"
+ },
+ {
+  "cliente_id": "CLI-0016",
+  "razao_social": "Mercado 0016 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-06-28"
+ },
+ {
+  "cliente_id": "CLI-0017",
+  "razao_social": "Bar 0017 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2025-05-21"
+ },
+ {
+  "cliente_id": "CLI-0018",
+  "razao_social": "Mercado 0018 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2025-01-06"
+ },
+ {
+  "cliente_id": "CLI-0019",
+  "razao_social": "Mercado 0019 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-10-08"
+ },
+ {
+  "cliente_id": "CLI-0020",
+  "razao_social": "Bar 0020 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2025-07-08"
+ },
+ {
+  "cliente_id": "CLI-0021",
+  "razao_social": "Mercado 0021 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-04-19"
+ },
+ {
+  "cliente_id": "CLI-0022",
+  "razao_social": "Restaurante 0022 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2023-05-31"
+ },
+ {
+  "cliente_id": "CLI-0023",
+  "razao_social": "Bar 0023 Ltda",
+  "segmento": "Bar",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2021-09-29"
+ },
+ {
+  "cliente_id": "CLI-0024",
+  "razao_social": "Bar 0024 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2023-01-15"
+ },
+ {
+  "cliente_id": "CLI-0025",
+  "razao_social": "Bar 0025 Ltda",
+  "segmento": "Bar",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2025-10-09"
+ },
+ {
+  "cliente_id": "CLI-0026",
+  "razao_social": "Mercado 0026 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-08-17"
+ },
+ {
+  "cliente_id": "CLI-0027",
+  "razao_social": "Bar 0027 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-11-04"
+ },
+ {
+  "cliente_id": "CLI-0028",
+  "razao_social": "Mercado 0028 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-07-21"
+ },
+ {
+  "cliente_id": "CLI-0029",
+  "razao_social": "Mercado 0029 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2021-11-13"
+ },
+ {
+  "cliente_id": "CLI-0030",
+  "razao_social": "Atacado 0030 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2023-07-11"
+ },
+ {
+  "cliente_id": "CLI-0031",
+  "razao_social": "Bar 0031 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2021-09-22"
+ },
+ {
+  "cliente_id": "CLI-0032",
+  "razao_social": "Restaurante 0032 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2023-11-13"
+ },
+ {
+  "cliente_id": "CLI-0033",
+  "razao_social": "Restaurante 0033 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2022-12-22"
+ },
+ {
+  "cliente_id": "CLI-0034",
+  "razao_social": "Restaurante 0034 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2020-10-09"
+ },
+ {
+  "cliente_id": "CLI-0035",
+  "razao_social": "Mercado 0035 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2025-03-09"
+ },
+ {
+  "cliente_id": "CLI-0036",
+  "razao_social": "Mercado 0036 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-08-11"
+ },
+ {
+  "cliente_id": "CLI-0037",
+  "razao_social": "Bar 0037 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2023-01-01"
+ },
+ {
+  "cliente_id": "CLI-0038",
+  "razao_social": "Atacado 0038 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2023-08-20"
+ },
+ {
+  "cliente_id": "CLI-0039",
+  "razao_social": "Bar 0039 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-08-07"
+ },
+ {
+  "cliente_id": "CLI-0040",
+  "razao_social": "Mercado 0040 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2024-08-20"
+ },
+ {
+  "cliente_id": "CLI-0041",
+  "razao_social": "Mercado 0041 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2024-06-11"
+ },
+ {
+  "cliente_id": "CLI-0042",
+  "razao_social": "Bar 0042 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-09-25"
+ },
+ {
+  "cliente_id": "CLI-0043",
+  "razao_social": "Mercado 0043 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-03-13"
+ },
+ {
+  "cliente_id": "CLI-0044",
+  "razao_social": "Bar 0044 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-05-19"
+ },
+ {
+  "cliente_id": "CLI-0045",
+  "razao_social": "Restaurante 0045 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-07-26"
+ },
+ {
+  "cliente_id": "CLI-0046",
+  "razao_social": "Restaurante 0046 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2022-12-23"
+ },
+ {
+  "cliente_id": "CLI-0047",
+  "razao_social": "Atacado 0047 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2023-11-27"
+ },
+ {
+  "cliente_id": "CLI-0048",
+  "razao_social": "Bar 0048 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2024-08-13"
+ },
+ {
+  "cliente_id": "CLI-0049",
+  "razao_social": "Bar 0049 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2023-05-09"
+ },
+ {
+  "cliente_id": "CLI-0050",
+  "razao_social": "Restaurante 0050 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2025-04-01"
+ },
+ {
+  "cliente_id": "CLI-0051",
+  "razao_social": "Atacado 0051 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-04-28"
+ },
+ {
+  "cliente_id": "CLI-0052",
+  "razao_social": "Restaurante 0052 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-06-10"
+ },
+ {
+  "cliente_id": "CLI-0053",
+  "razao_social": "Bar 0053 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2022-02-19"
+ },
+ {
+  "cliente_id": "CLI-0054",
+  "razao_social": "Mercado 0054 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-10-01"
+ },
+ {
+  "cliente_id": "CLI-0055",
+  "razao_social": "Bar 0055 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2022-02-19"
+ },
+ {
+  "cliente_id": "CLI-0056",
+  "razao_social": "Atacado 0056 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-09-28"
+ },
+ {
+  "cliente_id": "CLI-0057",
+  "razao_social": "Mercado 0057 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2024-08-24"
+ },
+ {
+  "cliente_id": "CLI-0058",
+  "razao_social": "Bar 0058 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2022-01-31"
+ },
+ {
+  "cliente_id": "CLI-0059",
+  "razao_social": "Mercado 0059 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2021-09-01"
+ },
+ {
+  "cliente_id": "CLI-0060",
+  "razao_social": "Mercado 0060 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2023-11-06"
+ },
+ {
+  "cliente_id": "CLI-0061",
+  "razao_social": "Bar 0061 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2024-05-13"
+ },
+ {
+  "cliente_id": "CLI-0062",
+  "razao_social": "Bar 0062 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2021-05-29"
+ },
+ {
+  "cliente_id": "CLI-0063",
+  "razao_social": "Mercado 0063 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-09-28"
+ },
+ {
+  "cliente_id": "CLI-0064",
+  "razao_social": "Bar 0064 Ltda",
+  "segmento": "BAR",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2022-08-05"
+ },
+ {
+  "cliente_id": "CLI-0065",
+  "razao_social": "Bar 0065 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2023-07-15"
+ },
+ {
+  "cliente_id": "CLI-0066",
+  "razao_social": "Bar 0066 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2021-07-26"
+ },
+ {
+  "cliente_id": "CLI-0067",
+  "razao_social": "Bar 0067 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2022-05-03"
+ },
+ {
+  "cliente_id": "CLI-0068",
+  "razao_social": "Bar 0068 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-08-10"
+ },
+ {
+  "cliente_id": "CLI-0069",
+  "razao_social": "Atacado 0069 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2024-07-23"
+ },
+ {
+  "cliente_id": "CLI-0070",
+  "razao_social": "Bar 0070 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2023-10-08"
+ },
+ {
+  "cliente_id": "CLI-0071",
+  "razao_social": "Mercado 0071 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-11-26"
+ },
+ {
+  "cliente_id": "CLI-0072",
+  "razao_social": "Mercado 0072 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2020-11-15"
+ },
+ {
+  "cliente_id": "CLI-0073",
+  "razao_social": "Bar 0073 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2025-02-10"
+ },
+ {
+  "cliente_id": "CLI-0074",
+  "razao_social": "Restaurante 0074 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2025-06-18"
+ },
+ {
+  "cliente_id": "CLI-0075",
+  "razao_social": "Bar 0075 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2024-07-14"
+ },
+ {
+  "cliente_id": "CLI-0076",
+  "razao_social": "Bar 0076 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2023-05-27"
+ },
+ {
+  "cliente_id": "CLI-0077",
+  "razao_social": "Atacado 0077 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-03-03"
+ },
+ {
+  "cliente_id": "CLI-0078",
+  "razao_social": "Bar 0078 Ltda",
+  "segmento": "BAR",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2021-04-27"
+ },
+ {
+  "cliente_id": "CLI-0079",
+  "razao_social": "Mercado 0079 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2025-09-14"
+ },
+ {
+  "cliente_id": "CLI-0080",
+  "razao_social": "Bar 0080 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2025-04-17"
+ },
+ {
+  "cliente_id": "CLI-0081",
+  "razao_social": "Mercado 0081 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2022-05-11"
+ },
+ {
+  "cliente_id": "CLI-0082",
+  "razao_social": "Bar 0082 Ltda",
+  "segmento": "Bar",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-03-15"
+ },
+ {
+  "cliente_id": "CLI-0083",
+  "razao_social": "Bar 0083 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-03-14"
+ },
+ {
+  "cliente_id": "CLI-0084",
+  "razao_social": "Mercado 0084 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2021-12-30"
+ },
+ {
+  "cliente_id": "CLI-0085",
+  "razao_social": "Bar 0085 Ltda",
+  "segmento": "BAR",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-03-30"
+ },
+ {
+  "cliente_id": "CLI-0086",
+  "razao_social": "Restaurante 0086 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2021-12-24"
+ },
+ {
+  "cliente_id": "CLI-0087",
+  "razao_social": "Mercado 0087 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-09-24"
+ },
+ {
+  "cliente_id": "CLI-0088",
+  "razao_social": "Restaurante 0088 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2025-02-02"
+ },
+ {
+  "cliente_id": "CLI-0089",
+  "razao_social": "Mercado 0089 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-08-30"
+ },
+ {
+  "cliente_id": "CLI-0090",
+  "razao_social": "Bar 0090 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2022-11-01"
+ },
+ {
+  "cliente_id": "CLI-0091",
+  "razao_social": "Bar 0091 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2022-03-26"
+ },
+ {
+  "cliente_id": "CLI-0092",
+  "razao_social": "Restaurante 0092 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2022-06-23"
+ },
+ {
+  "cliente_id": "CLI-0093",
+  "razao_social": "Bar 0093 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2023-06-05"
+ },
+ {
+  "cliente_id": "CLI-0094",
+  "razao_social": "Atacado 0094 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2025-05-21"
+ },
+ {
+  "cliente_id": "CLI-0095",
+  "razao_social": "Bar 0095 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2019-09-07"
+ },
+ {
+  "cliente_id": "CLI-0096",
+  "razao_social": "Atacado 0096 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2020-08-23"
+ },
+ {
+  "cliente_id": "CLI-0097",
+  "razao_social": "Restaurante 0097 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2025-10-03"
+ },
+ {
+  "cliente_id": "CLI-0098",
+  "razao_social": "Mercado 0098 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2024-02-25"
+ },
+ {
+  "cliente_id": "CLI-0099",
+  "razao_social": "Mercado 0099 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2024-04-22"
+ },
+ {
+  "cliente_id": "CLI-0100",
+  "razao_social": "Bar 0100 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2022-01-25"
+ },
+ {
+  "cliente_id": "CLI-0101",
+  "razao_social": "Bar 0101 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2021-02-10"
+ },
+ {
+  "cliente_id": "CLI-0102",
+  "razao_social": "Restaurante 0102 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2025-07-08"
+ },
+ {
+  "cliente_id": "CLI-0103",
+  "razao_social": "Bar 0103 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2023-11-05"
+ },
+ {
+  "cliente_id": "CLI-0104",
+  "razao_social": "Restaurante 0104 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2024-09-22"
+ },
+ {
+  "cliente_id": "CLI-0105",
+  "razao_social": "Restaurante 0105 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2023-03-14"
+ },
+ {
+  "cliente_id": "CLI-0106",
+  "razao_social": "Bar 0106 Ltda",
+  "segmento": "BAR",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2021-10-19"
+ },
+ {
+  "cliente_id": "CLI-0107",
+  "razao_social": "Restaurante 0107 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2023-11-12"
+ },
+ {
+  "cliente_id": "CLI-0108",
+  "razao_social": "Atacado 0108 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2021-05-17"
+ },
+ {
+  "cliente_id": "CLI-0109",
+  "razao_social": "Bar 0109 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-06-05"
+ },
+ {
+  "cliente_id": "CLI-0110",
+  "razao_social": "Bar 0110 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2025-09-12"
+ },
+ {
+  "cliente_id": "CLI-0111",
+  "razao_social": "Bar 0111 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2025-04-08"
+ },
+ {
+  "cliente_id": "CLI-0112",
+  "razao_social": "Restaurante 0112 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2021-10-26"
+ },
+ {
+  "cliente_id": "CLI-0113",
+  "razao_social": "Bar 0113 Ltda",
+  "segmento": "BAR",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2020-03-16"
+ },
+ {
+  "cliente_id": "CLI-0114",
+  "razao_social": "Restaurante 0114 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2024-12-11"
+ },
+ {
+  "cliente_id": "CLI-0115",
+  "razao_social": "Restaurante 0115 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2024-02-24"
+ },
+ {
+  "cliente_id": "CLI-0116",
+  "razao_social": "Bar 0116 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-05-02"
+ },
+ {
+  "cliente_id": "CLI-0117",
+  "razao_social": "Restaurante 0117 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-09-10"
+ },
+ {
+  "cliente_id": "CLI-0118",
+  "razao_social": "Bar 0118 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2025-09-16"
+ },
+ {
+  "cliente_id": "CLI-0119",
+  "razao_social": "Mercado 0119 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2025-02-01"
+ },
+ {
+  "cliente_id": "CLI-0120",
+  "razao_social": "Restaurante 0120 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2025-07-28"
+ },
+ {
+  "cliente_id": "CLI-0121",
+  "razao_social": "Bar 0121 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-01-06"
+ },
+ {
+  "cliente_id": "CLI-0122",
+  "razao_social": "Bar 0122 Ltda",
+  "segmento": "Bar",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2022-01-11"
+ },
+ {
+  "cliente_id": "CLI-0123",
+  "razao_social": "Mercado 0123 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2022-12-19"
+ },
+ {
+  "cliente_id": "CLI-0124",
+  "razao_social": "Mercado 0124 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-02-04"
+ },
+ {
+  "cliente_id": "CLI-0125",
+  "razao_social": "Bar 0125 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-11-09"
+ },
+ {
+  "cliente_id": "CLI-0126",
+  "razao_social": "Mercado 0126 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2023-06-05"
+ },
+ {
+  "cliente_id": "CLI-0127",
+  "razao_social": "Restaurante 0127 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2023-10-10"
+ },
+ {
+  "cliente_id": "CLI-0128",
+  "razao_social": "Atacado 0128 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2025-01-28"
+ },
+ {
+  "cliente_id": "CLI-0129",
+  "razao_social": "Bar 0129 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2021-09-30"
+ },
+ {
+  "cliente_id": "CLI-0130",
+  "razao_social": "Bar 0130 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2022-11-07"
+ },
+ {
+  "cliente_id": "CLI-0131",
+  "razao_social": "Restaurante 0131 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2023-07-19"
+ },
+ {
+  "cliente_id": "CLI-0132",
+  "razao_social": "Atacado 0132 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-12-21"
+ },
+ {
+  "cliente_id": "CLI-0133",
+  "razao_social": "Bar 0133 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2025-09-28"
+ },
+ {
+  "cliente_id": "CLI-0134",
+  "razao_social": "Bar 0134 Ltda",
+  "segmento": "BAR",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2023-09-21"
+ },
+ {
+  "cliente_id": "CLI-0135",
+  "razao_social": "Atacado 0135 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2022-07-02"
+ },
+ {
+  "cliente_id": "CLI-0136",
+  "razao_social": "Bar 0136 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2023-11-20"
+ },
+ {
+  "cliente_id": "CLI-0137",
+  "razao_social": "Bar 0137 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2024-06-20"
+ },
+ {
+  "cliente_id": "CLI-0138",
+  "razao_social": "Mercado 0138 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2024-12-04"
+ },
+ {
+  "cliente_id": "CLI-0139",
+  "razao_social": "Bar 0139 Ltda",
+  "segmento": "Bar",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2023-06-20"
+ },
+ {
+  "cliente_id": "CLI-0140",
+  "razao_social": "Bar 0140 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2021-12-07"
+ },
+ {
+  "cliente_id": "CLI-0141",
+  "razao_social": "Bar 0141 Ltda",
+  "segmento": "BAR",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2023-06-03"
+ },
+ {
+  "cliente_id": "CLI-0142",
+  "razao_social": "Mercado 0142 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2025-07-05"
+ },
+ {
+  "cliente_id": "CLI-0143",
+  "razao_social": "Mercado 0143 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2025-03-13"
+ },
+ {
+  "cliente_id": "CLI-0144",
+  "razao_social": "Bar 0144 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-08-28"
+ },
+ {
+  "cliente_id": "CLI-0145",
+  "razao_social": "Restaurante 0145 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2023-11-02"
+ },
+ {
+  "cliente_id": "CLI-0146",
+  "razao_social": "Restaurante 0146 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-07-20"
+ },
+ {
+  "cliente_id": "CLI-0147",
+  "razao_social": "Bar 0147 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2021-04-22"
+ },
+ {
+  "cliente_id": "CLI-0148",
+  "razao_social": "Bar 0148 Ltda",
+  "segmento": "BAR",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2025-04-22"
+ },
+ {
+  "cliente_id": "CLI-0149",
+  "razao_social": "Restaurante 0149 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2024-09-17"
+ },
+ {
+  "cliente_id": "CLI-0150",
+  "razao_social": "Mercado 0150 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2022-10-05"
+ },
+ {
+  "cliente_id": "CLI-0151",
+  "razao_social": "Mercado 0151 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2021-08-29"
+ },
+ {
+  "cliente_id": "CLI-0152",
+  "razao_social": "Bar 0152 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2025-02-20"
+ },
+ {
+  "cliente_id": "CLI-0153",
+  "razao_social": "Restaurante 0153 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2024-06-10"
+ },
+ {
+  "cliente_id": "CLI-0154",
+  "razao_social": "Atacado 0154 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2025-04-10"
+ },
+ {
+  "cliente_id": "CLI-0155",
+  "razao_social": "Restaurante 0155 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2024-04-26"
+ },
+ {
+  "cliente_id": "CLI-0156",
+  "razao_social": "Restaurante 0156 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-09-09"
+ },
+ {
+  "cliente_id": "CLI-0157",
+  "razao_social": "Restaurante 0157 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-05-24"
+ },
+ {
+  "cliente_id": "CLI-0158",
+  "razao_social": "Mercado 0158 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2025-06-12"
+ },
+ {
+  "cliente_id": "CLI-0159",
+  "razao_social": "Restaurante 0159 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-04-08"
+ },
+ {
+  "cliente_id": "CLI-0160",
+  "razao_social": "Bar 0160 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2023-02-23"
+ },
+ {
+  "cliente_id": "CLI-0161",
+  "razao_social": "Restaurante 0161 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2025-06-11"
+ },
+ {
+  "cliente_id": "CLI-0162",
+  "razao_social": "Mercado 0162 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2025-09-03"
+ },
+ {
+  "cliente_id": "CLI-0163",
+  "razao_social": "Bar 0163 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-08-12"
+ },
+ {
+  "cliente_id": "CLI-0164",
+  "razao_social": "Bar 0164 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2025-02-15"
+ },
+ {
+  "cliente_id": "CLI-0165",
+  "razao_social": "Bar 0165 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2021-01-14"
+ },
+ {
+  "cliente_id": "CLI-0166",
+  "razao_social": "Mercado 0166 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2025-02-27"
+ },
+ {
+  "cliente_id": "CLI-0167",
+  "razao_social": "Mercado 0167 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2024-03-02"
+ },
+ {
+  "cliente_id": "CLI-0168",
+  "razao_social": "Bar 0168 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-08-21"
+ },
+ {
+  "cliente_id": "CLI-0169",
+  "razao_social": "Restaurante 0169 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2024-09-28"
+ },
+ {
+  "cliente_id": "CLI-0170",
+  "razao_social": "Restaurante 0170 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2021-05-18"
+ },
+ {
+  "cliente_id": "CLI-0171",
+  "razao_social": "Bar 0171 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2023-10-15"
+ },
+ {
+  "cliente_id": "CLI-0172",
+  "razao_social": "Restaurante 0172 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2023-02-02"
+ },
+ {
+  "cliente_id": "CLI-0173",
+  "razao_social": "Mercado 0173 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-04-12"
+ },
+ {
+  "cliente_id": "CLI-0174",
+  "razao_social": "Restaurante 0174 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2021-10-14"
+ },
+ {
+  "cliente_id": "CLI-0175",
+  "razao_social": "Atacado 0175 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2024-02-07"
+ },
+ {
+  "cliente_id": "CLI-0176",
+  "razao_social": "Restaurante 0176 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2022-03-10"
+ },
+ {
+  "cliente_id": "CLI-0177",
+  "razao_social": "Restaurante 0177 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2025-05-13"
+ },
+ {
+  "cliente_id": "CLI-0178",
+  "razao_social": "Restaurante 0178 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2024-06-02"
+ },
+ {
+  "cliente_id": "CLI-0179",
+  "razao_social": "Restaurante 0179 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2021-01-09"
+ },
+ {
+  "cliente_id": "CLI-0180",
+  "razao_social": "Restaurante 0180 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2023-03-07"
+ },
+ {
+  "cliente_id": "CLI-0181",
+  "razao_social": "Restaurante 0181 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2025-01-23"
+ },
+ {
+  "cliente_id": "CLI-0182",
+  "razao_social": "Bar 0182 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2023-03-28"
+ },
+ {
+  "cliente_id": "CLI-0183",
+  "razao_social": "Restaurante 0183 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2021-03-17"
+ },
+ {
+  "cliente_id": "CLI-0184",
+  "razao_social": "Atacado 0184 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2025-04-23"
+ },
+ {
+  "cliente_id": "CLI-0185",
+  "razao_social": "Bar 0185 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-08-13"
+ },
+ {
+  "cliente_id": "CLI-0186",
+  "razao_social": "Mercado 0186 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-02-22"
+ },
+ {
+  "cliente_id": "CLI-0187",
+  "razao_social": "Bar 0187 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2022-03-25"
+ },
+ {
+  "cliente_id": "CLI-0188",
+  "razao_social": "Mercado 0188 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2024-11-02"
+ },
+ {
+  "cliente_id": "CLI-0189",
+  "razao_social": "Bar 0189 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-03-15"
+ },
+ {
+  "cliente_id": "CLI-0190",
+  "razao_social": "Restaurante 0190 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2021-12-06"
+ },
+ {
+  "cliente_id": "CLI-0191",
+  "razao_social": "Restaurante 0191 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2025-09-18"
+ },
+ {
+  "cliente_id": "CLI-0192",
+  "razao_social": "Atacado 0192 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2022-09-15"
+ },
+ {
+  "cliente_id": "CLI-0193",
+  "razao_social": "Restaurante 0193 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2022-01-31"
+ },
+ {
+  "cliente_id": "CLI-0194",
+  "razao_social": "Bar 0194 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2023-07-12"
+ },
+ {
+  "cliente_id": "CLI-0195",
+  "razao_social": "Bar 0195 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2019-10-09"
+ },
+ {
+  "cliente_id": "CLI-0196",
+  "razao_social": "Bar 0196 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2025-05-11"
+ },
+ {
+  "cliente_id": "CLI-0197",
+  "razao_social": "Mercado 0197 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-01-28"
+ },
+ {
+  "cliente_id": "CLI-0198",
+  "razao_social": "Restaurante 0198 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2023-06-13"
+ },
+ {
+  "cliente_id": "CLI-0199",
+  "razao_social": "Mercado 0199 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2024-09-30"
+ },
+ {
+  "cliente_id": "CLI-0200",
+  "razao_social": "Bar 0200 Ltda",
+  "segmento": "Bar",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2024-12-07"
+ },
+ {
+  "cliente_id": "CLI-0201",
+  "razao_social": "Bar 0201 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2025-06-15"
+ },
+ {
+  "cliente_id": "CLI-0202",
+  "razao_social": "Bar 0202 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2023-10-19"
+ },
+ {
+  "cliente_id": "CLI-0203",
+  "razao_social": "Bar 0203 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2023-01-01"
+ },
+ {
+  "cliente_id": "CLI-0204",
+  "razao_social": "Bar 0204 Ltda",
+  "segmento": "BAR",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-08-18"
+ },
+ {
+  "cliente_id": "CLI-0205",
+  "razao_social": "Mercado 0205 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2019-09-16"
+ },
+ {
+  "cliente_id": "CLI-0206",
+  "razao_social": "Restaurante 0206 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2024-12-06"
+ },
+ {
+  "cliente_id": "CLI-0207",
+  "razao_social": "Bar 0207 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-05-04"
+ },
+ {
+  "cliente_id": "CLI-0208",
+  "razao_social": "Atacado 0208 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2025-04-05"
+ },
+ {
+  "cliente_id": "CLI-0209",
+  "razao_social": "Bar 0209 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-01-25"
+ },
+ {
+  "cliente_id": "CLI-0210",
+  "razao_social": "Mercado 0210 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2022-06-29"
+ },
+ {
+  "cliente_id": "CLI-0211",
+  "razao_social": "Mercado 0211 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2023-03-11"
+ },
+ {
+  "cliente_id": "CLI-0212",
+  "razao_social": "Bar 0212 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2021-11-05"
+ },
+ {
+  "cliente_id": "CLI-0213",
+  "razao_social": "Bar 0213 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2021-11-11"
+ },
+ {
+  "cliente_id": "CLI-0214",
+  "razao_social": "Mercado 0214 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2025-06-05"
+ },
+ {
+  "cliente_id": "CLI-0215",
+  "razao_social": "Atacado 0215 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2025-07-06"
+ },
+ {
+  "cliente_id": "CLI-0216",
+  "razao_social": "Restaurante 0216 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-07-22"
+ },
+ {
+  "cliente_id": "CLI-0217",
+  "razao_social": "Mercado 0217 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2022-12-24"
+ },
+ {
+  "cliente_id": "CLI-0218",
+  "razao_social": "Restaurante 0218 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2023-08-08"
+ },
+ {
+  "cliente_id": "CLI-0219",
+  "razao_social": "Restaurante 0219 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2024-06-28"
+ },
+ {
+  "cliente_id": "CLI-0220",
+  "razao_social": "Bar 0220 Ltda",
+  "segmento": "Bar",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2020-08-17"
+ },
+ {
+  "cliente_id": "CLI-0221",
+  "razao_social": "Mercado 0221 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2023-01-30"
+ },
+ {
+  "cliente_id": "CLI-0222",
+  "razao_social": "Restaurante 0222 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2021-10-04"
+ },
+ {
+  "cliente_id": "CLI-0223",
+  "razao_social": "Mercado 0223 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2023-03-13"
+ },
+ {
+  "cliente_id": "CLI-0224",
+  "razao_social": "Mercado 0224 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2022-10-03"
+ },
+ {
+  "cliente_id": "CLI-0225",
+  "razao_social": "Mercado 0225 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2023-11-16"
+ },
+ {
+  "cliente_id": "CLI-0226",
+  "razao_social": "Restaurante 0226 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2022-08-24"
+ },
+ {
+  "cliente_id": "CLI-0227",
+  "razao_social": "Bar 0227 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-07-17"
+ },
+ {
+  "cliente_id": "CLI-0228",
+  "razao_social": "Restaurante 0228 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2022-09-14"
+ },
+ {
+  "cliente_id": "CLI-0229",
+  "razao_social": "Mercado 0229 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2020-06-14"
+ },
+ {
+  "cliente_id": "CLI-0230",
+  "razao_social": "Bar 0230 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2022-09-24"
+ },
+ {
+  "cliente_id": "CLI-0231",
+  "razao_social": "Restaurante 0231 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2024-08-09"
+ },
+ {
+  "cliente_id": "CLI-0232",
+  "razao_social": "Mercado 0232 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-03-06"
+ },
+ {
+  "cliente_id": "CLI-0233",
+  "razao_social": "Restaurante 0233 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-04-14"
+ },
+ {
+  "cliente_id": "CLI-0234",
+  "razao_social": "Bar 0234 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2024-05-20"
+ },
+ {
+  "cliente_id": "CLI-0235",
+  "razao_social": "Bar 0235 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2021-12-22"
+ },
+ {
+  "cliente_id": "CLI-0236",
+  "razao_social": "Bar 0236 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-08-06"
+ },
+ {
+  "cliente_id": "CLI-0237",
+  "razao_social": "Mercado 0237 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2024-05-11"
+ },
+ {
+  "cliente_id": "CLI-0238",
+  "razao_social": "Bar 0238 Ltda",
+  "segmento": "Bar",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2024-04-29"
+ },
+ {
+  "cliente_id": "CLI-0239",
+  "razao_social": "Mercado 0239 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2021-09-20"
+ },
+ {
+  "cliente_id": "CLI-0240",
+  "razao_social": "Bar 0240 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2025-10-13"
+ },
+ {
+  "cliente_id": "CLI-0241",
+  "razao_social": "Bar 0241 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2021-05-17"
+ },
+ {
+  "cliente_id": "CLI-0242",
+  "razao_social": "Mercado 0242 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2024-09-12"
+ },
+ {
+  "cliente_id": "CLI-0243",
+  "razao_social": "Bar 0243 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2024-01-13"
+ },
+ {
+  "cliente_id": "CLI-0244",
+  "razao_social": "Bar 0244 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-03-24"
+ },
+ {
+  "cliente_id": "CLI-0245",
+  "razao_social": "Restaurante 0245 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2023-12-22"
+ },
+ {
+  "cliente_id": "CLI-0246",
+  "razao_social": "Atacado 0246 Ltda",
+  "segmento": "ATACADO",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2022-03-30"
+ },
+ {
+  "cliente_id": "CLI-0247",
+  "razao_social": "Restaurante 0247 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-07-27"
+ },
+ {
+  "cliente_id": "CLI-0248",
+  "razao_social": "Restaurante 0248 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2022-07-15"
+ },
+ {
+  "cliente_id": "CLI-0249",
+  "razao_social": "Restaurante 0249 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2025-01-29"
+ },
+ {
+  "cliente_id": "CLI-0250",
+  "razao_social": "Restaurante 0250 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2020-01-09"
+ },
+ {
+  "cliente_id": "CLI-0251",
+  "razao_social": "Mercado 0251 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2023-11-22"
+ },
+ {
+  "cliente_id": "CLI-0252",
+  "razao_social": "Bar 0252 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2024-05-27"
+ },
+ {
+  "cliente_id": "CLI-0253",
+  "razao_social": "Atacado 0253 Ltda",
+  "segmento": "ATACADO",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2022-10-29"
+ },
+ {
+  "cliente_id": "CLI-0254",
+  "razao_social": "Atacado 0254 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2022-01-19"
+ },
+ {
+  "cliente_id": "CLI-0255",
+  "razao_social": "Mercado 0255 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2022-08-09"
+ },
+ {
+  "cliente_id": "CLI-0256",
+  "razao_social": "Restaurante 0256 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2023-09-13"
+ },
+ {
+  "cliente_id": "CLI-0257",
+  "razao_social": "Bar 0257 Ltda",
+  "segmento": "Bar",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2020-12-01"
+ },
+ {
+  "cliente_id": "CLI-0258",
+  "razao_social": "Mercado 0258 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2024-08-20"
+ },
+ {
+  "cliente_id": "CLI-0259",
+  "razao_social": "Restaurante 0259 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2024-07-04"
+ },
+ {
+  "cliente_id": "CLI-0260",
+  "razao_social": "Mercado 0260 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2025-04-22"
+ },
+ {
+  "cliente_id": "CLI-0261",
+  "razao_social": "Bar 0261 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2022-01-31"
+ },
+ {
+  "cliente_id": "CLI-0262",
+  "razao_social": "Mercado 0262 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-06-30"
+ },
+ {
+  "cliente_id": "CLI-0263",
+  "razao_social": "Bar 0263 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-04-24"
+ },
+ {
+  "cliente_id": "CLI-0264",
+  "razao_social": "Bar 0264 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2024-11-11"
+ },
+ {
+  "cliente_id": "CLI-0265",
+  "razao_social": "Restaurante 0265 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-02-16"
+ },
+ {
+  "cliente_id": "CLI-0266",
+  "razao_social": "Mercado 0266 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-09-19"
+ },
+ {
+  "cliente_id": "CLI-0267",
+  "razao_social": "Mercado 0267 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2024-09-20"
+ },
+ {
+  "cliente_id": "CLI-0268",
+  "razao_social": "Bar 0268 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2024-02-11"
+ },
+ {
+  "cliente_id": "CLI-0269",
+  "razao_social": "Bar 0269 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-10-04"
+ },
+ {
+  "cliente_id": "CLI-0270",
+  "razao_social": "Mercado 0270 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-08-31"
+ },
+ {
+  "cliente_id": "CLI-0271",
+  "razao_social": "Mercado 0271 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2022-08-07"
+ },
+ {
+  "cliente_id": "CLI-0272",
+  "razao_social": "Bar 0272 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2021-04-01"
+ },
+ {
+  "cliente_id": "CLI-0273",
+  "razao_social": "Bar 0273 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2025-10-04"
+ },
+ {
+  "cliente_id": "CLI-0274",
+  "razao_social": "Mercado 0274 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-01-08"
+ },
+ {
+  "cliente_id": "CLI-0275",
+  "razao_social": "Restaurante 0275 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2022-05-13"
+ },
+ {
+  "cliente_id": "CLI-0276",
+  "razao_social": "Atacado 0276 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2024-07-09"
+ },
+ {
+  "cliente_id": "CLI-0277",
+  "razao_social": "Atacado 0277 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2021-07-23"
+ },
+ {
+  "cliente_id": "CLI-0278",
+  "razao_social": "Restaurante 0278 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2025-08-18"
+ },
+ {
+  "cliente_id": "CLI-0279",
+  "razao_social": "Mercado 0279 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2025-04-22"
+ },
+ {
+  "cliente_id": "CLI-0280",
+  "razao_social": "Mercado 0280 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2024-08-31"
+ },
+ {
+  "cliente_id": "CLI-0281",
+  "razao_social": "Bar 0281 Ltda",
+  "segmento": "BAR",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2023-02-14"
+ },
+ {
+  "cliente_id": "CLI-0282",
+  "razao_social": "Restaurante 0282 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2023-03-09"
+ },
+ {
+  "cliente_id": "CLI-0283",
+  "razao_social": "Bar 0283 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-07-24"
+ },
+ {
+  "cliente_id": "CLI-0284",
+  "razao_social": "Mercado 0284 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2024-03-20"
+ },
+ {
+  "cliente_id": "CLI-0285",
+  "razao_social": "Bar 0285 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2022-02-09"
+ },
+ {
+  "cliente_id": "CLI-0286",
+  "razao_social": "Bar 0286 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-06-14"
+ },
+ {
+  "cliente_id": "CLI-0287",
+  "razao_social": "Restaurante 0287 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2023-04-03"
+ },
+ {
+  "cliente_id": "CLI-0288",
+  "razao_social": "Bar 0288 Ltda",
+  "segmento": "BAR",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2022-05-23"
+ },
+ {
+  "cliente_id": "CLI-0289",
+  "razao_social": "Bar 0289 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2023-10-29"
+ },
+ {
+  "cliente_id": "CLI-0290",
+  "razao_social": "Bar 0290 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-08-06"
+ },
+ {
+  "cliente_id": "CLI-0291",
+  "razao_social": "Restaurante 0291 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-07-09"
+ },
+ {
+  "cliente_id": "CLI-0292",
+  "razao_social": "Bar 0292 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-01-24"
+ },
+ {
+  "cliente_id": "CLI-0293",
+  "razao_social": "Restaurante 0293 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2022-03-28"
+ },
+ {
+  "cliente_id": "CLI-0294",
+  "razao_social": "Bar 0294 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2025-03-13"
+ },
+ {
+  "cliente_id": "CLI-0295",
+  "razao_social": "Bar 0295 Ltda",
+  "segmento": "BAR",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2022-11-08"
+ },
+ {
+  "cliente_id": "CLI-0296",
+  "razao_social": "Mercado 0296 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-06-03"
+ },
+ {
+  "cliente_id": "CLI-0297",
+  "razao_social": "Bar 0297 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-03-21"
+ },
+ {
+  "cliente_id": "CLI-0298",
+  "razao_social": "Restaurante 0298 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2024-12-12"
+ },
+ {
+  "cliente_id": "CLI-0299",
+  "razao_social": "Atacado 0299 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2021-11-15"
+ },
+ {
+  "cliente_id": "CLI-0300",
+  "razao_social": "Atacado 0300 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2022-04-28"
+ },
+ {
+  "cliente_id": "CLI-0301",
+  "razao_social": "Bar 0301 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2025-03-21"
+ },
+ {
+  "cliente_id": "CLI-0302",
+  "razao_social": "Restaurante 0302 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2021-12-06"
+ },
+ {
+  "cliente_id": "CLI-0303",
+  "razao_social": "Restaurante 0303 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2021-10-17"
+ },
+ {
+  "cliente_id": "CLI-0304",
+  "razao_social": "Restaurante 0304 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2020-10-15"
+ },
+ {
+  "cliente_id": "CLI-0305",
+  "razao_social": "Bar 0305 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-03-06"
+ },
+ {
+  "cliente_id": "CLI-0306",
+  "razao_social": "Bar 0306 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2020-02-21"
+ },
+ {
+  "cliente_id": "CLI-0307",
+  "razao_social": "Bar 0307 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2023-08-28"
+ },
+ {
+  "cliente_id": "CLI-0308",
+  "razao_social": "Bar 0308 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2021-12-11"
+ },
+ {
+  "cliente_id": "CLI-0309",
+  "razao_social": "Bar 0309 Ltda",
+  "segmento": "BAR",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2023-08-24"
+ },
+ {
+  "cliente_id": "CLI-0310",
+  "razao_social": "Mercado 0310 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2025-09-10"
+ },
+ {
+  "cliente_id": "CLI-0311",
+  "razao_social": "Mercado 0311 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-09-22"
+ },
+ {
+  "cliente_id": "CLI-0312",
+  "razao_social": "Restaurante 0312 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2021-07-29"
+ },
+ {
+  "cliente_id": "CLI-0313",
+  "razao_social": "Restaurante 0313 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2025-01-28"
+ },
+ {
+  "cliente_id": "CLI-0314",
+  "razao_social": "Restaurante 0314 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2022-07-20"
+ },
+ {
+  "cliente_id": "CLI-0315",
+  "razao_social": "Atacado 0315 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-07-23"
+ },
+ {
+  "cliente_id": "CLI-0316",
+  "razao_social": "Bar 0316 Ltda",
+  "segmento": "BAR",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-01-01"
+ },
+ {
+  "cliente_id": "CLI-0317",
+  "razao_social": "Atacado 0317 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2023-11-20"
+ },
+ {
+  "cliente_id": "CLI-0318",
+  "razao_social": "Mercado 0318 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2024-09-18"
+ },
+ {
+  "cliente_id": "CLI-0319",
+  "razao_social": "Bar 0319 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2023-10-19"
+ },
+ {
+  "cliente_id": "CLI-0320",
+  "razao_social": "Atacado 0320 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-09-02"
+ },
+ {
+  "cliente_id": "CLI-0321",
+  "razao_social": "Bar 0321 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-06-21"
+ },
+ {
+  "cliente_id": "CLI-0322",
+  "razao_social": "Mercado 0322 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2024-09-21"
+ },
+ {
+  "cliente_id": "CLI-0323",
+  "razao_social": "Bar 0323 Ltda",
+  "segmento": "BAR",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2021-07-17"
+ },
+ {
+  "cliente_id": "CLI-0324",
+  "razao_social": "Bar 0324 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2020-09-09"
+ },
+ {
+  "cliente_id": "CLI-0325",
+  "razao_social": "Bar 0325 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-04-22"
+ },
+ {
+  "cliente_id": "CLI-0326",
+  "razao_social": "Bar 0326 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2022-01-17"
+ },
+ {
+  "cliente_id": "CLI-0327",
+  "razao_social": "Restaurante 0327 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2024-02-13"
+ },
+ {
+  "cliente_id": "CLI-0328",
+  "razao_social": "Mercado 0328 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2022-10-07"
+ },
+ {
+  "cliente_id": "CLI-0329",
+  "razao_social": "Restaurante 0329 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2023-03-15"
+ },
+ {
+  "cliente_id": "CLI-0330",
+  "razao_social": "Bar 0330 Ltda",
+  "segmento": "BAR",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-07-12"
+ },
+ {
+  "cliente_id": "CLI-0331",
+  "razao_social": "Mercado 0331 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2022-04-22"
+ },
+ {
+  "cliente_id": "CLI-0332",
+  "razao_social": "Mercado 0332 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2023-09-14"
+ },
+ {
+  "cliente_id": "CLI-0333",
+  "razao_social": "Atacado 0333 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2025-05-11"
+ },
+ {
+  "cliente_id": "CLI-0334",
+  "razao_social": "Bar 0334 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-07-05"
+ },
+ {
+  "cliente_id": "CLI-0335",
+  "razao_social": "Bar 0335 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2022-05-15"
+ },
+ {
+  "cliente_id": "CLI-0336",
+  "razao_social": "Mercado 0336 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2022-11-10"
+ },
+ {
+  "cliente_id": "CLI-0337",
+  "razao_social": "Restaurante 0337 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2025-03-23"
+ },
+ {
+  "cliente_id": "CLI-0338",
+  "razao_social": "Bar 0338 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-03-20"
+ },
+ {
+  "cliente_id": "CLI-0339",
+  "razao_social": "Restaurante 0339 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-01-14"
+ },
+ {
+  "cliente_id": "CLI-0340",
+  "razao_social": "Restaurante 0340 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2025-06-27"
+ },
+ {
+  "cliente_id": "CLI-0341",
+  "razao_social": "Bar 0341 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2019-11-17"
+ },
+ {
+  "cliente_id": "CLI-0342",
+  "razao_social": "Atacado 0342 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2024-11-07"
+ },
+ {
+  "cliente_id": "CLI-0343",
+  "razao_social": "Mercado 0343 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2020-08-24"
+ },
+ {
+  "cliente_id": "CLI-0344",
+  "razao_social": "Atacado 0344 Ltda",
+  "segmento": "ATACADO",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2024-04-28"
+ },
+ {
+  "cliente_id": "CLI-0345",
+  "razao_social": "Restaurante 0345 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2021-07-22"
+ },
+ {
+  "cliente_id": "CLI-0346",
+  "razao_social": "Restaurante 0346 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2022-04-26"
+ },
+ {
+  "cliente_id": "CLI-0347",
+  "razao_social": "Atacado 0347 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2021-10-04"
+ },
+ {
+  "cliente_id": "CLI-0348",
+  "razao_social": "Bar 0348 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2020-12-06"
+ },
+ {
+  "cliente_id": "CLI-0349",
+  "razao_social": "Bar 0349 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2025-02-16"
+ },
+ {
+  "cliente_id": "CLI-0350",
+  "razao_social": "Atacado 0350 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2023-02-05"
+ },
+ {
+  "cliente_id": "CLI-0351",
+  "razao_social": "Restaurante 0351 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2023-06-08"
+ },
+ {
+  "cliente_id": "CLI-0352",
+  "razao_social": "Bar 0352 Ltda",
+  "segmento": "Bar",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2023-04-16"
+ },
+ {
+  "cliente_id": "CLI-0353",
+  "razao_social": "Restaurante 0353 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2025-03-26"
+ },
+ {
+  "cliente_id": "CLI-0354",
+  "razao_social": "Restaurante 0354 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2020-12-12"
+ },
+ {
+  "cliente_id": "CLI-0355",
+  "razao_social": "Mercado 0355 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2021-12-17"
+ },
+ {
+  "cliente_id": "CLI-0356",
+  "razao_social": "Mercado 0356 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2025-06-13"
+ },
+ {
+  "cliente_id": "CLI-0357",
+  "razao_social": "Bar 0357 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-06-24"
+ },
+ {
+  "cliente_id": "CLI-0358",
+  "razao_social": "Bar 0358 Ltda",
+  "segmento": "BAR",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2023-08-24"
+ },
+ {
+  "cliente_id": "CLI-0359",
+  "razao_social": "Mercado 0359 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-08-27"
+ },
+ {
+  "cliente_id": "CLI-0360",
+  "razao_social": "Mercado 0360 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2022-01-30"
+ },
+ {
+  "cliente_id": "CLI-0361",
+  "razao_social": "Bar 0361 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2025-08-08"
+ },
+ {
+  "cliente_id": "CLI-0362",
+  "razao_social": "Bar 0362 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-08-27"
+ },
+ {
+  "cliente_id": "CLI-0363",
+  "razao_social": "Restaurante 0363 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-02-26"
+ },
+ {
+  "cliente_id": "CLI-0364",
+  "razao_social": "Bar 0364 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2025-10-28"
+ },
+ {
+  "cliente_id": "CLI-0365",
+  "razao_social": "Bar 0365 Ltda",
+  "segmento": "BAR",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2022-08-23"
+ },
+ {
+  "cliente_id": "CLI-0366",
+  "razao_social": "Bar 0366 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2024-11-30"
+ },
+ {
+  "cliente_id": "CLI-0367",
+  "razao_social": "Bar 0367 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2021-01-06"
+ },
+ {
+  "cliente_id": "CLI-0368",
+  "razao_social": "Bar 0368 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2023-03-21"
+ },
+ {
+  "cliente_id": "CLI-0369",
+  "razao_social": "Restaurante 0369 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-02-23"
+ },
+ {
+  "cliente_id": "CLI-0370",
+  "razao_social": "Bar 0370 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2023-01-24"
+ },
+ {
+  "cliente_id": "CLI-0371",
+  "razao_social": "Bar 0371 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2022-01-07"
+ },
+ {
+  "cliente_id": "CLI-0372",
+  "razao_social": "Bar 0372 Ltda",
+  "segmento": "BAR",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2022-11-24"
+ },
+ {
+  "cliente_id": "CLI-0373",
+  "razao_social": "Mercado 0373 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2021-05-08"
+ },
+ {
+  "cliente_id": "CLI-0374",
+  "razao_social": "Mercado 0374 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2022-02-04"
+ },
+ {
+  "cliente_id": "CLI-0375",
+  "razao_social": "Bar 0375 Ltda",
+  "segmento": "Bar",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2024-08-04"
+ },
+ {
+  "cliente_id": "CLI-0376",
+  "razao_social": "Mercado 0376 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2021-12-24"
+ },
+ {
+  "cliente_id": "CLI-0377",
+  "razao_social": "Bar 0377 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2025-02-08"
+ },
+ {
+  "cliente_id": "CLI-0378",
+  "razao_social": "Restaurante 0378 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2019-09-14"
+ },
+ {
+  "cliente_id": "CLI-0379",
+  "razao_social": "Mercado 0379 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2021-12-16"
+ },
+ {
+  "cliente_id": "CLI-0380",
+  "razao_social": "Atacado 0380 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2024-01-06"
+ },
+ {
+  "cliente_id": "CLI-0381",
+  "razao_social": "Bar 0381 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-02-17"
+ },
+ {
+  "cliente_id": "CLI-0382",
+  "razao_social": "Atacado 0382 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2020-11-02"
+ },
+ {
+  "cliente_id": "CLI-0383",
+  "razao_social": "Mercado 0383 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2023-06-15"
+ },
+ {
+  "cliente_id": "CLI-0384",
+  "razao_social": "Bar 0384 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2023-11-19"
+ },
+ {
+  "cliente_id": "CLI-0385",
+  "razao_social": "Bar 0385 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-09-02"
+ },
+ {
+  "cliente_id": "CLI-0386",
+  "razao_social": "Mercado 0386 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2024-12-25"
+ },
+ {
+  "cliente_id": "CLI-0387",
+  "razao_social": "Mercado 0387 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-12-18"
+ },
+ {
+  "cliente_id": "CLI-0388",
+  "razao_social": "Bar 0388 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2022-08-24"
+ },
+ {
+  "cliente_id": "CLI-0389",
+  "razao_social": "Mercado 0389 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2020-05-18"
+ },
+ {
+  "cliente_id": "CLI-0390",
+  "razao_social": "Restaurante 0390 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-04-18"
+ },
+ {
+  "cliente_id": "CLI-0391",
+  "razao_social": "Bar 0391 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2023-02-04"
+ },
+ {
+  "cliente_id": "CLI-0392",
+  "razao_social": "Mercado 0392 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2025-05-25"
+ },
+ {
+  "cliente_id": "CLI-0393",
+  "razao_social": "Restaurante 0393 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2024-06-28"
+ },
+ {
+  "cliente_id": "CLI-0394",
+  "razao_social": "Bar 0394 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-01-25"
+ },
+ {
+  "cliente_id": "CLI-0395",
+  "razao_social": "Atacado 0395 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2025-06-23"
+ },
+ {
+  "cliente_id": "CLI-0396",
+  "razao_social": "Mercado 0396 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2024-07-16"
+ },
+ {
+  "cliente_id": "CLI-0397",
+  "razao_social": "Restaurante 0397 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2023-08-25"
+ },
+ {
+  "cliente_id": "CLI-0398",
+  "razao_social": "Restaurante 0398 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2024-11-11"
+ },
+ {
+  "cliente_id": "CLI-0399",
+  "razao_social": "Bar 0399 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-09-03"
+ },
+ {
+  "cliente_id": "CLI-0400",
+  "razao_social": "Bar 0400 Ltda",
+  "segmento": "BAR",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2023-06-19"
+ },
+ {
+  "cliente_id": "CLI-0401",
+  "razao_social": "Bar 0401 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2022-09-05"
+ },
+ {
+  "cliente_id": "CLI-0402",
+  "razao_social": "Mercado 0402 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2024-04-06"
+ },
+ {
+  "cliente_id": "CLI-0403",
+  "razao_social": "Atacado 0403 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2024-10-13"
+ },
+ {
+  "cliente_id": "CLI-0404",
+  "razao_social": "Mercado 0404 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2020-06-25"
+ },
+ {
+  "cliente_id": "CLI-0405",
+  "razao_social": "Bar 0405 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2022-01-28"
+ },
+ {
+  "cliente_id": "CLI-0406",
+  "razao_social": "Bar 0406 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2022-09-03"
+ },
+ {
+  "cliente_id": "CLI-0407",
+  "razao_social": "Bar 0407 Ltda",
+  "segmento": "BAR",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2025-05-09"
+ },
+ {
+  "cliente_id": "CLI-0408",
+  "razao_social": "Restaurante 0408 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2025-10-25"
+ },
+ {
+  "cliente_id": "CLI-0409",
+  "razao_social": "Bar 0409 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2020-06-02"
+ },
+ {
+  "cliente_id": "CLI-0410",
+  "razao_social": "Bar 0410 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2024-12-29"
+ },
+ {
+  "cliente_id": "CLI-0411",
+  "razao_social": "Bar 0411 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-03-12"
+ },
+ {
+  "cliente_id": "CLI-0412",
+  "razao_social": "Mercado 0412 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2021-06-02"
+ },
+ {
+  "cliente_id": "CLI-0413",
+  "razao_social": "Atacado 0413 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2025-10-21"
+ },
+ {
+  "cliente_id": "CLI-0414",
+  "razao_social": "Atacado 0414 Ltda",
+  "segmento": "ATACADO",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2023-06-14"
+ },
+ {
+  "cliente_id": "CLI-0415",
+  "razao_social": "Bar 0415 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-11-22"
+ },
+ {
+  "cliente_id": "CLI-0416",
+  "razao_social": "Restaurante 0416 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2023-03-07"
+ },
+ {
+  "cliente_id": "CLI-0417",
+  "razao_social": "Restaurante 0417 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2022-04-15"
+ },
+ {
+  "cliente_id": "CLI-0418",
+  "razao_social": "Restaurante 0418 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-09-22"
+ },
+ {
+  "cliente_id": "CLI-0419",
+  "razao_social": "Bar 0419 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2022-02-14"
+ },
+ {
+  "cliente_id": "CLI-0420",
+  "razao_social": "Bar 0420 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-10-02"
+ },
+ {
+  "cliente_id": "CLI-0421",
+  "razao_social": "Bar 0421 Ltda",
+  "segmento": "BAR",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2022-07-06"
+ },
+ {
+  "cliente_id": "CLI-0422",
+  "razao_social": "Bar 0422 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2023-08-08"
+ },
+ {
+  "cliente_id": "CLI-0423",
+  "razao_social": "Restaurante 0423 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2021-03-05"
+ },
+ {
+  "cliente_id": "CLI-0424",
+  "razao_social": "Restaurante 0424 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2025-03-13"
+ },
+ {
+  "cliente_id": "CLI-0425",
+  "razao_social": "Restaurante 0425 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2023-03-26"
+ },
+ {
+  "cliente_id": "CLI-0426",
+  "razao_social": "Bar 0426 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2022-06-19"
+ },
+ {
+  "cliente_id": "CLI-0427",
+  "razao_social": "Mercado 0427 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2021-10-31"
+ },
+ {
+  "cliente_id": "CLI-0428",
+  "razao_social": "Bar 0428 Ltda",
+  "segmento": "BAR",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2024-10-14"
+ },
+ {
+  "cliente_id": "CLI-0429",
+  "razao_social": "Restaurante 0429 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-08-02"
+ },
+ {
+  "cliente_id": "CLI-0430",
+  "razao_social": "Bar 0430 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2024-07-24"
+ },
+ {
+  "cliente_id": "CLI-0431",
+  "razao_social": "Atacado 0431 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-01-06"
+ },
+ {
+  "cliente_id": "CLI-0432",
+  "razao_social": "Bar 0432 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2025-03-09"
+ },
+ {
+  "cliente_id": "CLI-0433",
+  "razao_social": "Restaurante 0433 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2021-11-11"
+ },
+ {
+  "cliente_id": "CLI-0434",
+  "razao_social": "Atacado 0434 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2022-12-02"
+ },
+ {
+  "cliente_id": "CLI-0435",
+  "razao_social": "Mercado 0435 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2021-05-20"
+ },
+ {
+  "cliente_id": "CLI-0436",
+  "razao_social": "Bar 0436 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2022-10-30"
+ },
+ {
+  "cliente_id": "CLI-0437",
+  "razao_social": "Bar 0437 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2019-11-20"
+ },
+ {
+  "cliente_id": "CLI-0438",
+  "razao_social": "Restaurante 0438 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2024-06-16"
+ },
+ {
+  "cliente_id": "CLI-0439",
+  "razao_social": "Bar 0439 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2025-03-19"
+ },
+ {
+  "cliente_id": "CLI-0440",
+  "razao_social": "Mercado 0440 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2024-01-14"
+ },
+ {
+  "cliente_id": "CLI-0441",
+  "razao_social": "Bar 0441 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2021-09-01"
+ },
+ {
+  "cliente_id": "CLI-0442",
+  "razao_social": "Mercado 0442 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-01-28"
+ },
+ {
+  "cliente_id": "CLI-0443",
+  "razao_social": "Mercado 0443 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2021-09-29"
+ },
+ {
+  "cliente_id": "CLI-0444",
+  "razao_social": "Bar 0444 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2025-03-16"
+ },
+ {
+  "cliente_id": "CLI-0445",
+  "razao_social": "Bar 0445 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2023-04-21"
+ },
+ {
+  "cliente_id": "CLI-0446",
+  "razao_social": "Mercado 0446 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-11-22"
+ },
+ {
+  "cliente_id": "CLI-0447",
+  "razao_social": "Mercado 0447 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2021-06-10"
+ },
+ {
+  "cliente_id": "CLI-0448",
+  "razao_social": "Atacado 0448 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2021-12-02"
+ },
+ {
+  "cliente_id": "CLI-0449",
+  "razao_social": "Bar 0449 Ltda",
+  "segmento": "BAR",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2024-04-18"
+ },
+ {
+  "cliente_id": "CLI-0450",
+  "razao_social": "Atacado 0450 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2024-04-03"
+ },
+ {
+  "cliente_id": "CLI-0451",
+  "razao_social": "Bar 0451 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2022-01-27"
+ },
+ {
+  "cliente_id": "CLI-0452",
+  "razao_social": "Mercado 0452 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2024-12-21"
+ },
+ {
+  "cliente_id": "CLI-0453",
+  "razao_social": "Bar 0453 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2023-12-07"
+ },
+ {
+  "cliente_id": "CLI-0454",
+  "razao_social": "Bar 0454 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2021-12-06"
+ },
+ {
+  "cliente_id": "CLI-0455",
+  "razao_social": "Atacado 0455 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2022-12-19"
+ },
+ {
+  "cliente_id": "CLI-0456",
+  "razao_social": "Mercado 0456 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2024-07-10"
+ },
+ {
+  "cliente_id": "CLI-0457",
+  "razao_social": "Restaurante 0457 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2024-03-15"
+ },
+ {
+  "cliente_id": "CLI-0458",
+  "razao_social": "Bar 0458 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2025-10-02"
+ },
+ {
+  "cliente_id": "CLI-0459",
+  "razao_social": "Mercado 0459 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2025-03-06"
+ },
+ {
+  "cliente_id": "CLI-0460",
+  "razao_social": "Mercado 0460 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-06-15"
+ },
+ {
+  "cliente_id": "CLI-0461",
+  "razao_social": "Bar 0461 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-04-15"
+ },
+ {
+  "cliente_id": "CLI-0462",
+  "razao_social": "Atacado 0462 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2021-08-08"
+ },
+ {
+  "cliente_id": "CLI-0463",
+  "razao_social": "Restaurante 0463 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2022-06-29"
+ },
+ {
+  "cliente_id": "CLI-0464",
+  "razao_social": "Bar 0464 Ltda",
+  "segmento": "Bar",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-03-21"
+ },
+ {
+  "cliente_id": "CLI-0465",
+  "razao_social": "Bar 0465 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-06-15"
+ },
+ {
+  "cliente_id": "CLI-0466",
+  "razao_social": "Mercado 0466 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2020-03-26"
+ },
+ {
+  "cliente_id": "CLI-0467",
+  "razao_social": "Bar 0467 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-09-25"
+ },
+ {
+  "cliente_id": "CLI-0468",
+  "razao_social": "Bar 0468 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2020-05-16"
+ },
+ {
+  "cliente_id": "CLI-0469",
+  "razao_social": "Restaurante 0469 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2023-07-24"
+ },
+ {
+  "cliente_id": "CLI-0470",
+  "razao_social": "Bar 0470 Ltda",
+  "segmento": "BAR",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2022-11-27"
+ },
+ {
+  "cliente_id": "CLI-0471",
+  "razao_social": "Atacado 0471 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-08-04"
+ },
+ {
+  "cliente_id": "CLI-0472",
+  "razao_social": "Bar 0472 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2022-05-13"
+ },
+ {
+  "cliente_id": "CLI-0473",
+  "razao_social": "Atacado 0473 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2022-10-24"
+ },
+ {
+  "cliente_id": "CLI-0474",
+  "razao_social": "Restaurante 0474 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-02-13"
+ },
+ {
+  "cliente_id": "CLI-0475",
+  "razao_social": "Atacado 0475 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2025-02-22"
+ },
+ {
+  "cliente_id": "CLI-0476",
+  "razao_social": "Mercado 0476 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2025-10-08"
+ },
+ {
+  "cliente_id": "CLI-0477",
+  "razao_social": "Bar 0477 Ltda",
+  "segmento": "BAR",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2021-02-27"
+ },
+ {
+  "cliente_id": "CLI-0478",
+  "razao_social": "Atacado 0478 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-07-21"
+ },
+ {
+  "cliente_id": "CLI-0479",
+  "razao_social": "Mercado 0479 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2024-07-02"
+ },
+ {
+  "cliente_id": "CLI-0480",
+  "razao_social": "Bar 0480 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-06-27"
+ },
+ {
+  "cliente_id": "CLI-0481",
+  "razao_social": "Atacado 0481 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2025-04-15"
+ },
+ {
+  "cliente_id": "CLI-0482",
+  "razao_social": "Bar 0482 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-01-26"
+ },
+ {
+  "cliente_id": "CLI-0483",
+  "razao_social": "Restaurante 0483 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2024-09-21"
+ },
+ {
+  "cliente_id": "CLI-0484",
+  "razao_social": "Atacado 0484 Ltda",
+  "segmento": "ATACADO",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2023-09-16"
+ },
+ {
+  "cliente_id": "CLI-0485",
+  "razao_social": "Atacado 0485 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2021-05-27"
+ },
+ {
+  "cliente_id": "CLI-0486",
+  "razao_social": "Restaurante 0486 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2024-03-14"
+ },
+ {
+  "cliente_id": "CLI-0487",
+  "razao_social": "Mercado 0487 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2020-10-18"
+ },
+ {
+  "cliente_id": "CLI-0488",
+  "razao_social": "Atacado 0488 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2024-09-21"
+ },
+ {
+  "cliente_id": "CLI-0489",
+  "razao_social": "Bar 0489 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2023-10-22"
+ },
+ {
+  "cliente_id": "CLI-0490",
+  "razao_social": "Restaurante 0490 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2022-08-13"
+ },
+ {
+  "cliente_id": "CLI-0491",
+  "razao_social": "Mercado 0491 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2023-02-28"
+ },
+ {
+  "cliente_id": "CLI-0492",
+  "razao_social": "Mercado 0492 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-04-26"
+ },
+ {
+  "cliente_id": "CLI-0493",
+  "razao_social": "Restaurante 0493 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2024-07-22"
+ },
+ {
+  "cliente_id": "CLI-0494",
+  "razao_social": "Mercado 0494 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2024-09-13"
+ },
+ {
+  "cliente_id": "CLI-0495",
+  "razao_social": "Mercado 0495 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-03-06"
+ },
+ {
+  "cliente_id": "CLI-0496",
+  "razao_social": "Bar 0496 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2022-06-01"
+ },
+ {
+  "cliente_id": "CLI-0497",
+  "razao_social": "Bar 0497 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2022-07-27"
+ },
+ {
+  "cliente_id": "CLI-0498",
+  "razao_social": "Atacado 0498 Ltda",
+  "segmento": "ATACADO",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-05-30"
+ },
+ {
+  "cliente_id": "CLI-0499",
+  "razao_social": "Bar 0499 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2024-12-31"
+ },
+ {
+  "cliente_id": "CLI-0500",
+  "razao_social": "Restaurante 0500 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2024-04-06"
+ },
+ {
+  "cliente_id": "CLI-0501",
+  "razao_social": "Restaurante 0501 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2024-08-11"
+ },
+ {
+  "cliente_id": "CLI-0502",
+  "razao_social": "Atacado 0502 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2024-10-10"
+ },
+ {
+  "cliente_id": "CLI-0503",
+  "razao_social": "Bar 0503 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2021-08-22"
+ },
+ {
+  "cliente_id": "CLI-0504",
+  "razao_social": "Atacado 0504 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2020-01-18"
+ },
+ {
+  "cliente_id": "CLI-0505",
+  "razao_social": "Bar 0505 Ltda",
+  "segmento": "BAR",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2023-09-19"
+ },
+ {
+  "cliente_id": "CLI-0506",
+  "razao_social": "Mercado 0506 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2022-12-10"
+ },
+ {
+  "cliente_id": "CLI-0507",
+  "razao_social": "Restaurante 0507 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-09-23"
+ },
+ {
+  "cliente_id": "CLI-0508",
+  "razao_social": "Restaurante 0508 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2025-09-28"
+ },
+ {
+  "cliente_id": "CLI-0509",
+  "razao_social": "Bar 0509 Ltda",
+  "segmento": "Bar",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2023-02-23"
+ },
+ {
+  "cliente_id": "CLI-0510",
+  "razao_social": "Mercado 0510 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2024-08-19"
+ },
+ {
+  "cliente_id": "CLI-0511",
+  "razao_social": "Bar 0511 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2020-09-11"
+ },
+ {
+  "cliente_id": "CLI-0512",
+  "razao_social": "Bar 0512 Ltda",
+  "segmento": "BAR",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-07-14"
+ },
+ {
+  "cliente_id": "CLI-0513",
+  "razao_social": "Bar 0513 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-02-04"
+ },
+ {
+  "cliente_id": "CLI-0514",
+  "razao_social": "Mercado 0514 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2023-11-29"
+ },
+ {
+  "cliente_id": "CLI-0515",
+  "razao_social": "Bar 0515 Ltda",
+  "segmento": "Bar",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-02-02"
+ },
+ {
+  "cliente_id": "CLI-0516",
+  "razao_social": "Bar 0516 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-05-22"
+ },
+ {
+  "cliente_id": "CLI-0517",
+  "razao_social": "Restaurante 0517 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2023-08-04"
+ },
+ {
+  "cliente_id": "CLI-0518",
+  "razao_social": "Bar 0518 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2024-07-17"
+ },
+ {
+  "cliente_id": "CLI-0519",
+  "razao_social": "Atacado 0519 Ltda",
+  "segmento": "ATACADO",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2023-08-21"
+ },
+ {
+  "cliente_id": "CLI-0520",
+  "razao_social": "Bar 0520 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2023-05-12"
+ },
+ {
+  "cliente_id": "CLI-0521",
+  "razao_social": "Atacado 0521 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2023-12-23"
+ },
+ {
+  "cliente_id": "CLI-0522",
+  "razao_social": "Atacado 0522 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2023-05-20"
+ },
+ {
+  "cliente_id": "CLI-0523",
+  "razao_social": "Bar 0523 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2020-04-18"
+ },
+ {
+  "cliente_id": "CLI-0524",
+  "razao_social": "Bar 0524 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-09-07"
+ },
+ {
+  "cliente_id": "CLI-0525",
+  "razao_social": "Restaurante 0525 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2022-08-27"
+ },
+ {
+  "cliente_id": "CLI-0526",
+  "razao_social": "Mercado 0526 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2025-04-10"
+ },
+ {
+  "cliente_id": "CLI-0527",
+  "razao_social": "Atacado 0527 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2023-07-18"
+ },
+ {
+  "cliente_id": "CLI-0528",
+  "razao_social": "Bar 0528 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-04-02"
+ },
+ {
+  "cliente_id": "CLI-0529",
+  "razao_social": "Bar 0529 Ltda",
+  "segmento": "Bar",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2023-06-27"
+ },
+ {
+  "cliente_id": "CLI-0530",
+  "razao_social": "Restaurante 0530 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2025-02-24"
+ },
+ {
+  "cliente_id": "CLI-0531",
+  "razao_social": "Bar 0531 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2022-06-25"
+ },
+ {
+  "cliente_id": "CLI-0532",
+  "razao_social": "Mercado 0532 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2021-10-05"
+ },
+ {
+  "cliente_id": "CLI-0533",
+  "razao_social": "Restaurante 0533 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-05-11"
+ },
+ {
+  "cliente_id": "CLI-0534",
+  "razao_social": "Bar 0534 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2024-11-10"
+ },
+ {
+  "cliente_id": "CLI-0535",
+  "razao_social": "Restaurante 0535 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2020-05-09"
+ },
+ {
+  "cliente_id": "CLI-0536",
+  "razao_social": "Mercado 0536 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2023-05-17"
+ },
+ {
+  "cliente_id": "CLI-0537",
+  "razao_social": "Bar 0537 Ltda",
+  "segmento": "Bar",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2020-08-12"
+ },
+ {
+  "cliente_id": "CLI-0538",
+  "razao_social": "Restaurante 0538 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-01-23"
+ },
+ {
+  "cliente_id": "CLI-0539",
+  "razao_social": "Mercado 0539 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2024-11-17"
+ },
+ {
+  "cliente_id": "CLI-0540",
+  "razao_social": "Mercado 0540 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-05-03"
+ },
+ {
+  "cliente_id": "CLI-0541",
+  "razao_social": "Mercado 0541 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2019-10-09"
+ },
+ {
+  "cliente_id": "CLI-0542",
+  "razao_social": "Atacado 0542 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-04-29"
+ },
+ {
+  "cliente_id": "CLI-0543",
+  "razao_social": "Bar 0543 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2022-09-12"
+ },
+ {
+  "cliente_id": "CLI-0544",
+  "razao_social": "Bar 0544 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2021-06-29"
+ },
+ {
+  "cliente_id": "CLI-0545",
+  "razao_social": "Atacado 0545 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2020-03-14"
+ },
+ {
+  "cliente_id": "CLI-0546",
+  "razao_social": "Bar 0546 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2024-09-24"
+ },
+ {
+  "cliente_id": "CLI-0547",
+  "razao_social": "Mercado 0547 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-06-04"
+ },
+ {
+  "cliente_id": "CLI-0548",
+  "razao_social": "Atacado 0548 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2024-03-27"
+ },
+ {
+  "cliente_id": "CLI-0549",
+  "razao_social": "Restaurante 0549 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2023-12-13"
+ },
+ {
+  "cliente_id": "CLI-0550",
+  "razao_social": "Bar 0550 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-08-31"
+ },
+ {
+  "cliente_id": "CLI-0551",
+  "razao_social": "Bar 0551 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2025-10-08"
+ },
+ {
+  "cliente_id": "CLI-0552",
+  "razao_social": "Restaurante 0552 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2023-08-14"
+ },
+ {
+  "cliente_id": "CLI-0553",
+  "razao_social": "Mercado 0553 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2024-08-15"
+ },
+ {
+  "cliente_id": "CLI-0554",
+  "razao_social": "Restaurante 0554 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2022-07-20"
+ },
+ {
+  "cliente_id": "CLI-0555",
+  "razao_social": "Mercado 0555 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2022-02-22"
+ },
+ {
+  "cliente_id": "CLI-0556",
+  "razao_social": "Mercado 0556 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2023-10-19"
+ },
+ {
+  "cliente_id": "CLI-0557",
+  "razao_social": "Restaurante 0557 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2023-12-12"
+ },
+ {
+  "cliente_id": "CLI-0558",
+  "razao_social": "Bar 0558 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2025-01-29"
+ },
+ {
+  "cliente_id": "CLI-0559",
+  "razao_social": "Bar 0559 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2025-04-08"
+ },
+ {
+  "cliente_id": "CLI-0560",
+  "razao_social": "Mercado 0560 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2020-07-07"
+ },
+ {
+  "cliente_id": "CLI-0561",
+  "razao_social": "Mercado 0561 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-01-29"
+ },
+ {
+  "cliente_id": "CLI-0562",
+  "razao_social": "Bar 0562 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2024-06-29"
+ },
+ {
+  "cliente_id": "CLI-0563",
+  "razao_social": "Mercado 0563 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2023-10-18"
+ },
+ {
+  "cliente_id": "CLI-0564",
+  "razao_social": "Bar 0564 Ltda",
+  "segmento": "Bar",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2025-02-27"
+ },
+ {
+  "cliente_id": "CLI-0565",
+  "razao_social": "Mercado 0565 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2025-10-20"
+ },
+ {
+  "cliente_id": "CLI-0566",
+  "razao_social": "Mercado 0566 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2025-06-28"
+ },
+ {
+  "cliente_id": "CLI-0567",
+  "razao_social": "Mercado 0567 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2020-11-12"
+ },
+ {
+  "cliente_id": "CLI-0568",
+  "razao_social": "Restaurante 0568 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2020-09-19"
+ },
+ {
+  "cliente_id": "CLI-0569",
+  "razao_social": "Restaurante 0569 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-04-26"
+ },
+ {
+  "cliente_id": "CLI-0570",
+  "razao_social": "Bar 0570 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2024-10-09"
+ },
+ {
+  "cliente_id": "CLI-0571",
+  "razao_social": "Bar 0571 Ltda",
+  "segmento": "Bar",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2023-03-17"
+ },
+ {
+  "cliente_id": "CLI-0572",
+  "razao_social": "Mercado 0572 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2024-07-14"
+ },
+ {
+  "cliente_id": "CLI-0573",
+  "razao_social": "Bar 0573 Ltda",
+  "segmento": "Bar",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2023-01-30"
+ },
+ {
+  "cliente_id": "CLI-0574",
+  "razao_social": "Atacado 0574 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2023-05-18"
+ },
+ {
+  "cliente_id": "CLI-0575",
+  "razao_social": "Mercado 0575 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-06-10"
+ },
+ {
+  "cliente_id": "CLI-0576",
+  "razao_social": "Restaurante 0576 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-07-06"
+ },
+ {
+  "cliente_id": "CLI-0577",
+  "razao_social": "Bar 0577 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2023-05-20"
+ },
+ {
+  "cliente_id": "CLI-0578",
+  "razao_social": "Restaurante 0578 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2024-10-22"
+ },
+ {
+  "cliente_id": "CLI-0579",
+  "razao_social": "Bar 0579 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2025-01-14"
+ },
+ {
+  "cliente_id": "CLI-0580",
+  "razao_social": "Mercado 0580 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2024-07-07"
+ },
+ {
+  "cliente_id": "CLI-0581",
+  "razao_social": "Mercado 0581 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2024-08-01"
+ },
+ {
+  "cliente_id": "CLI-0582",
+  "razao_social": "Bar 0582 Ltda",
+  "segmento": "BAR",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2023-05-20"
+ },
+ {
+  "cliente_id": "CLI-0583",
+  "razao_social": "Mercado 0583 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2023-09-13"
+ },
+ {
+  "cliente_id": "CLI-0584",
+  "razao_social": "Bar 0584 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2023-08-08"
+ },
+ {
+  "cliente_id": "CLI-0585",
+  "razao_social": "Atacado 0585 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2023-07-21"
+ },
+ {
+  "cliente_id": "CLI-0586",
+  "razao_social": "Mercado 0586 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2025-09-28"
+ },
+ {
+  "cliente_id": "CLI-0587",
+  "razao_social": "Restaurante 0587 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2025-02-17"
+ },
+ {
+  "cliente_id": "CLI-0588",
+  "razao_social": "Bar 0588 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2023-02-16"
+ },
+ {
+  "cliente_id": "CLI-0589",
+  "razao_social": "Restaurante 0589 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2024-08-20"
+ },
+ {
+  "cliente_id": "CLI-0590",
+  "razao_social": "Restaurante 0590 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2020-01-05"
+ },
+ {
+  "cliente_id": "CLI-0591",
+  "razao_social": "Restaurante 0591 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2025-04-07"
+ },
+ {
+  "cliente_id": "CLI-0592",
+  "razao_social": "Atacado 0592 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2024-04-26"
+ },
+ {
+  "cliente_id": "CLI-0593",
+  "razao_social": "Bar 0593 Ltda",
+  "segmento": "Bar",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2025-09-15"
+ },
+ {
+  "cliente_id": "CLI-0594",
+  "razao_social": "Mercado 0594 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2024-05-18"
+ },
+ {
+  "cliente_id": "CLI-0595",
+  "razao_social": "Mercado 0595 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-09-03"
+ },
+ {
+  "cliente_id": "CLI-0596",
+  "razao_social": "Atacado 0596 Ltda",
+  "segmento": "ATACADO",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2023-09-12"
+ },
+ {
+  "cliente_id": "CLI-0597",
+  "razao_social": "Restaurante 0597 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Sorocaba",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2021-06-30"
+ },
+ {
+  "cliente_id": "CLI-0598",
+  "razao_social": "Bar 0598 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2019-06-16"
+ },
+ {
+  "cliente_id": "CLI-0599",
+  "razao_social": "Atacado 0599 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2024-12-26"
+ },
+ {
+  "cliente_id": "CLI-0600",
+  "razao_social": "Atacado 0600 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2019-10-16"
+ },
+ {
+  "cliente_id": "CLI-0601",
+  "razao_social": "Atacado 0601 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2025-04-09"
+ },
+ {
+  "cliente_id": "CLI-0602",
+  "razao_social": "Atacado 0602 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-11-16"
+ },
+ {
+  "cliente_id": "CLI-0603",
+  "razao_social": "Bar 0603 Ltda",
+  "segmento": "BAR",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-08-09"
+ },
+ {
+  "cliente_id": "CLI-0604",
+  "razao_social": "Mercado 0604 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2023-12-14"
+ },
+ {
+  "cliente_id": "CLI-0605",
+  "razao_social": "Restaurante 0605 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2025-01-01"
+ },
+ {
+  "cliente_id": "CLI-0606",
+  "razao_social": "Bar 0606 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2023-01-01"
+ },
+ {
+  "cliente_id": "CLI-0607",
+  "razao_social": "Mercado 0607 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-04-23"
+ },
+ {
+  "cliente_id": "CLI-0608",
+  "razao_social": "Bar 0608 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2025-02-06"
+ },
+ {
+  "cliente_id": "CLI-0609",
+  "razao_social": "Restaurante 0609 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2021-03-05"
+ },
+ {
+  "cliente_id": "CLI-0610",
+  "razao_social": "Bar 0610 Ltda",
+  "segmento": "BAR",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2022-04-24"
+ },
+ {
+  "cliente_id": "CLI-0611",
+  "razao_social": "Mercado 0611 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2023-11-21"
+ },
+ {
+  "cliente_id": "CLI-0612",
+  "razao_social": "Bar 0612 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V15",
+  "data_cadastro": "2023-03-08"
+ },
+ {
+  "cliente_id": "CLI-0613",
+  "razao_social": "Bar 0613 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2025-07-25"
+ },
+ {
+  "cliente_id": "CLI-0614",
+  "razao_social": "Atacado 0614 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-04-30"
+ },
+ {
+  "cliente_id": "CLI-0615",
+  "razao_social": "Bar 0615 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2024-02-13"
+ },
+ {
+  "cliente_id": "CLI-0616",
+  "razao_social": "Restaurante 0616 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2024-05-02"
+ },
+ {
+  "cliente_id": "CLI-0617",
+  "razao_social": "Mercado 0617 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2025-05-20"
+ },
+ {
+  "cliente_id": "CLI-0618",
+  "razao_social": "Mercado 0618 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2023-06-08"
+ },
+ {
+  "cliente_id": "CLI-0619",
+  "razao_social": "Bar 0619 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2024-07-04"
+ },
+ {
+  "cliente_id": "CLI-0620",
+  "razao_social": "Bar 0620 Ltda",
+  "segmento": "Bar",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2023-11-04"
+ },
+ {
+  "cliente_id": "CLI-0621",
+  "razao_social": "Bar 0621 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2022-10-19"
+ },
+ {
+  "cliente_id": "CLI-0622",
+  "razao_social": "Mercado 0622 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2023-04-16"
+ },
+ {
+  "cliente_id": "CLI-0623",
+  "razao_social": "Bar 0623 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2024-01-05"
+ },
+ {
+  "cliente_id": "CLI-0624",
+  "razao_social": "Atacado 0624 Ltda",
+  "segmento": "ATACADO",
+  "cidade": "São Bernardo do Campo",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2022-08-21"
+ },
+ {
+  "cliente_id": "CLI-0625",
+  "razao_social": "Bar 0625 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2025-01-12"
+ },
+ {
+  "cliente_id": "CLI-0626",
+  "razao_social": "Restaurante 0626 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2023-01-23"
+ },
+ {
+  "cliente_id": "CLI-0627",
+  "razao_social": "Bar 0627 Ltda",
+  "segmento": "Bar",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V10",
+  "data_cadastro": "2024-04-21"
+ },
+ {
+  "cliente_id": "CLI-0628",
+  "razao_social": "Restaurante 0628 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2022-11-18"
+ },
+ {
+  "cliente_id": "CLI-0629",
+  "razao_social": "Atacado 0629 Ltda",
+  "segmento": "Atacado",
+  "cidade": "Piracicaba",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2021-08-18"
+ },
+ {
+  "cliente_id": "CLI-0630",
+  "razao_social": "Mercado 0630 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Guarujá",
+  "regional": "Litoral",
+  "vendedor_id": "V14",
+  "data_cadastro": "2025-10-25"
+ },
+ {
+  "cliente_id": "CLI-0631",
+  "razao_social": "Restaurante 0631 Ltda",
+  "segmento": "RESTAURANTE",
+  "cidade": "Santos",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-01-24"
+ },
+ {
+  "cliente_id": "CLI-0632",
+  "razao_social": "Bar 0632 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V06",
+  "data_cadastro": "2022-07-18"
+ },
+ {
+  "cliente_id": "CLI-0633",
+  "razao_social": "Atacado 0633 Ltda",
+  "segmento": "Atacado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V01",
+  "data_cadastro": "2023-11-22"
+ },
+ {
+  "cliente_id": "CLI-0634",
+  "razao_social": "Bar 0634 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V04",
+  "data_cadastro": "2022-12-03"
+ },
+ {
+  "cliente_id": "CLI-0635",
+  "razao_social": "Mercado 0635 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V13",
+  "data_cadastro": "2024-11-27"
+ },
+ {
+  "cliente_id": "CLI-0636",
+  "razao_social": "Bar 0636 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2023-06-12"
+ },
+ {
+  "cliente_id": "CLI-0637",
+  "razao_social": "Bar 0637 Ltda",
+  "segmento": "Bar",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V11",
+  "data_cadastro": "2025-10-12"
+ },
+ {
+  "cliente_id": "CLI-0638",
+  "razao_social": "Mercado 0638 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Jundiaí",
+  "regional": "Interior",
+  "vendedor_id": "V12",
+  "data_cadastro": "2025-10-30"
+ },
+ {
+  "cliente_id": "CLI-0639",
+  "razao_social": "Restaurante 0639 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2025-05-26"
+ },
+ {
+  "cliente_id": "CLI-0640",
+  "razao_social": "Bar 0640 Ltda",
+  "segmento": "Bar",
+  "cidade": "Guarulhos",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2020-07-10"
+ },
+ {
+  "cliente_id": "CLI-0641",
+  "razao_social": "Bar 0641 Ltda",
+  "segmento": "Bar",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2025-03-25"
+ },
+ {
+  "cliente_id": "CLI-0642",
+  "razao_social": "Restaurante 0642 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2022-10-21"
+ },
+ {
+  "cliente_id": "CLI-0643",
+  "razao_social": "Mercado 0643 Ltda",
+  "segmento": "Mercado",
+  "cidade": "Praia Grande",
+  "regional": "Litoral",
+  "vendedor_id": "V16",
+  "data_cadastro": "2025-10-25"
+ },
+ {
+  "cliente_id": "CLI-0644",
+  "razao_social": "Restaurante 0644 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2021-05-07"
+ },
+ {
+  "cliente_id": "CLI-0645",
+  "razao_social": "Mercado 0645 Ltda",
+  "segmento": "MERCADO",
+  "cidade": "Campinas",
+  "regional": "Interior",
+  "vendedor_id": "V09",
+  "data_cadastro": "2023-04-30"
+ },
+ {
+  "cliente_id": "CLI-0646",
+  "razao_social": "Bar 0646 Ltda",
+  "segmento": "Bar",
+  "cidade": "Osasco",
+  "regional": "Grande SP",
+  "vendedor_id": "V07",
+  "data_cadastro": "2022-10-13"
+ },
+ {
+  "cliente_id": "CLI-0647",
+  "razao_social": "Restaurante 0647 Ltda",
+  "segmento": "Restaurante",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V05",
+  "data_cadastro": "2024-07-23"
+ },
+ {
+  "cliente_id": "CLI-0648",
+  "razao_social": "Bar 0648 Ltda",
+  "segmento": "Bar",
+  "cidade": "Santo André",
+  "regional": "Grande SP",
+  "vendedor_id": "V08",
+  "data_cadastro": "2024-09-14"
+ },
+ {
+  "cliente_id": "CLI-0649",
+  "razao_social": "Mercado 0649 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V02",
+  "data_cadastro": "2025-10-15"
+ },
+ {
+  "cliente_id": "CLI-0650",
+  "razao_social": "Mercado 0650 Ltda",
+  "segmento": "Mercado",
+  "cidade": "São Paulo",
+  "regional": "Capital",
+  "vendedor_id": "V03",
+  "data_cadastro": "2025-06-28"
+ }
+]
