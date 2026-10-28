@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Dados gerados pelo pipeline (recriados com `python main.py`)
+data/processed/*
+!data/processed/.gitkeep
+
+# Arquivos temporários do Excel / SO / editores
+~$*.xlsx
+.DS_Store
+.vscode/
+.idea/
