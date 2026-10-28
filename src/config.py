@@ -29,5 +29,8 @@ QUANTIDADE_MAXIMA_CAIXAS = 1_000
 FAIXAS_COMISSAO = [0, 0.80, 1.00, 1.20, float("inf")]
 PERCENTUAIS_COMISSAO = [0.0, 0.02, 0.03, 0.04]
 
-# RFM: janela de 12 meses até a data de corte
+# RFM: janela de 12 meses até a data de corte. A recência usa faixas de negócio (dias desde
+# a última compra -> nota), porque os clientes compram com frequência e quintis criariam
+# distinções artificiais entre 3 e 5 dias.
 JANELA_RFM_MESES = 12
+FAIXAS_RECENCIA_DIAS = [-1, 7, 15, 30, 60, float("inf")]
